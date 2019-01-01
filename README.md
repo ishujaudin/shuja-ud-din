@@ -1,0 +1,117 @@
+# GreenGraph Automator (2019 – 2026)
+
+A complete Python & Web tool to automate and customize historical GitHub contribution graphs from 2019 to the present (2026).
+
+---
+
+## Features
+
+- **Custom Density Curves (2019 – 2026)**: Configure activity rates year-by-year (e.g. sparse exploration in 2019 scaling to heavy daily activity in 2026).
+- **Curated Presets**:
+  - `Progressive Ramp` (Recommended): 2019 sparse → 2026 intense.
+  - `Realistic Natural`: Organic engineering rhythm with weekday focus and realistic dips.
+  - `Green Wall`: Dense, multi-commit output across all years.
+  - `Steady Cadence`: Balanced ~65% activity rate across all years.
+  - `Minimalist`: Sporadic light activity.
+- **Daily Randomization & Distribution**:
+  - Configurable weekend multiplier (e.g. 0.35x to simulate lower weekend commits).
+  - Randomized commit intervals between 09:15 and 22:30 with diverse commit messages.
+  - Active day probabilities and random commit counts per active day.
+- **Backdated Git Commits**:
+  - Sets exact `GIT_AUTHOR_DATE` and `GIT_COMMITTER_DATE` in compliant ISO timestamp format.
+  - Uses `git commit --no-verify` to safely bypass any local pre-commit or commit-msg hooks.
+- **Safety & History Controls**:
+  - **Clean Slate Mode**: Automatically creates a safety backup tag (`backup-pre-green-<timestamp>`) before clearing and painting a fresh 2019–2026 timeline.
+  - **Append Mode**: Keeps existing history and appends historical commits on top.
+  - **Force Push Safeguards**: Interactive confirmation dialog with remote URL and branch verification.
+- **Two Complete Interfaces**:
+  1. **Interactive Web Dashboard**: Live multi-year SVG/Canvas contribution heatmaps, year filter tabs, dynamic density sliders, live execution progress bar, and terminal log console.
+  2. **Headless CLI (`generate.py`)**: Full command-line interface with flags, dry-run simulation, and JSON config support.
+- **Zero External Dependencies**: Runs entirely on the Python 3 standard library (`http.server`, `subprocess`, `json`, `threading`).
+
+---
+
+## How GitHub Attributes Contributions
+
+To ensure your backdated commits appear as green squares on your GitHub profile graph:
+1. **Email Match**: The author email specified in the tool (`--author-email`) **must match** an email added and verified in your GitHub account (**Settings → Emails**).
+2. **Default Branch**: The commits must be pushed to the repository's default branch (usually `main`).
+3. **Public / Private Graph Settings**:
+   - If the repository is public, contributions appear automatically.
+   - If the repository is private, ensure **"Include private contributions on my profile"** is checked in your GitHub profile settings.
+
+---
+
+## 1. Using the Web Dashboard
+
+Start the local dashboard:
+
+```bash
+python3 app.py
+```
+
+Open your browser to:
+```
+http://localhost:8080
+```
+
+### Dashboard Capabilities:
+- **Interactive Multi-Year Heatmap**: View full stacked grids from 2019 to 2026 or click individual year tabs (e.g. `2026`).
+- **Real-Time Reactivity**: Moving any slider immediately recalculates and previews the contribution heatmap in real time.
+- **Author Setup**: Enter your GitHub name and email, and save it to the local Git repository with one click.
+- **Live Terminal & Progress**: Watch commits execute with a real-time progress bar and day-by-day timestamps.
+- **Force Push Modal**: Safe confirmation modal showing target remote and branch before pushing.
+
+---
+
+## 2. Using the CLI (`generate.py`)
+
+### Dry Run (Preview without committing)
+```bash
+python3 generate.py --dry-run --preset progressive
+```
+
+### Generate Commits (Clean Slate with Safety Backup)
+```bash
+python3 generate.py --clean --preset progressive --email your.email@example.com
+```
+
+### Generate Commits and Automatically Force Push
+```bash
+python3 generate.py --clean --preset progressive --push --remote origin --branch main
+```
+
+### CLI Options Reference
+
+| Flag | Default | Description |
+|---|---|---|
+| `--web` | `false` | Launch the interactive Web UI |
+| `--preset` | `progressive` | `progressive`, `natural`, `intense`, `steady`, `minimalist` |
+| `--start-year` | `2019` | Starting year |
+| `--end-year` | `2026` | Ending year |
+| `--end-date` | `2026-10-12` | Specific ending date (YYYY-MM-DD) |
+| `--weekend-weight` | `0.35` | Multiplier for Saturday & Sunday commit probability |
+| `--clean` | `false` | Clean slate: resets history from start year with backup tag |
+| `--author-email` | Git config email | Commit author email (must match your GitHub email) |
+| `--author-name` | Git config name | Commit author name |
+| `--branch` | `main` | Target Git branch |
+| `--remote` | `origin` | Target Git remote |
+| `--dry-run` | `false` | Simulate and print breakdown without creating commits |
+| `--push` | `false` | Force push to remote after commit creation |
+| `--config-file` | `None` | Path to custom JSON configuration (e.g., `config.json`) |
+
+---
+
+## Safety & Rollback
+
+If you ever wish to revert commits generated by the tool:
+
+1. List the automatic backup tags:
+   ```bash
+   git tag -l "backup-*"
+   ```
+2. Reset back to the backup state:
+   ```bash
+   git reset --hard backup-pre-green-<timestamp>
+   git push --force origin main
+   ```

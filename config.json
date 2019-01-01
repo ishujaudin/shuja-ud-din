@@ -1,0 +1,16 @@
+{
+  "description": "Customizable historical GitHub contribution configuration (2019 to 2026)",
+  "weekend_weight": 0.35,
+  "start_year": 2019,
+  "end_date": "2026-10-12",
+  "years": {
+    "2019": { "active_day_pct": 25, "min_commits": 1, "max_commits": 2 },
+    "2020": { "active_day_pct": 35, "min_commits": 1, "max_commits": 3 },
+    "2021": { "active_day_pct": 45, "min_commits": 1, "max_commits": 3 },
+    "2022": { "active_day_pct": 58, "min_commits": 2, "max_commits": 4 },
+    "2023": { "active_day_pct": 70, "min_commits": 2, "max_commits": 5 },
+    "2024": { "active_day_pct": 80, "min_commits": 2, "max_commits": 6 },
+    "2025": { "active_day_pct": 88, "min_commits": 3, "max_commits": 7 },
+    "2026": { "active_day_pct": 92, "min_commits": 3, "max_commits": 8 }
+  }
+}

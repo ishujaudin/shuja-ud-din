@@ -1,0 +1,2 @@
+# Historical GitHub Contribution Graph (2019-2026)
+# Author: Shuja Ud Din <shuja.dev@hotmail.com>

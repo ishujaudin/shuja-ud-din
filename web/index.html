@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GreenGraph — GitHub Contribution Graph Automator (2019–2026)</title>
+  <meta name="description" content="Automate and customize historical GitHub contribution graphs from 2019 to 2026 with custom density curves, daily randomization, and safe Git execution.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Header / Nav -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="brand">
+        <div class="brand-icon">
+          <span class="grid-pixel p1"></span>
+          <span class="grid-pixel p2"></span>
+          <span class="grid-pixel p3"></span>
+          <span class="grid-pixel p4"></span>
+        </div>
+        <div class="brand-text">
+          <h1>GreenGraph <span class="badge-accent">Automator</span></h1>
+          <p class="brand-sub">GitHub Contribution Graph Painter (2019 – 2026)</p>
+        </div>
+      </div>
+
+      <div class="repo-badge-bar">
+        <div class="repo-pill" id="repoStatusPill">
+          <span class="status-dot online"></span>
+          <span class="repo-name" id="badgeRepoName">Checking git repo...</span>
+        </div>
+        <div class="branch-pill" id="badgeBranch">
+          <svg class="icon" viewBox="0 0 16 16" width="14" height="14" fill="currentColor">
+            <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
+          </svg>
+          <span id="badgeBranchName">main</span>
+        </div>
+        <div class="commits-pill">
+          <span class="commit-count-num" id="badgeCommitCount">0</span> commits
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="main-content">
+    <!-- Hero / Summary Stats -->
+    <section class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-label">Total Simulated Commits</div>
+        <div class="stat-value text-green" id="statTotalCommits">0</div>
+        <div class="stat-sub" id="statYearlyAvg">Across 8 years (2019-2026)</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Active Days Rate</div>
+        <div class="stat-value text-emerald" id="statActiveRate">0%</div>
+        <div class="stat-sub" id="statActiveDays">0 / 0 active days</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Longest Streak</div>
+        <div class="stat-value text-teal" id="statMaxStreak">0</div>
+        <div class="stat-sub">consecutive active days</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Busiest Day</div>
+        <div class="stat-value text-cyan" id="statBusiestCount">0</div>
+        <div class="stat-sub" id="statBusiestDate">commits on peak day</div>
+      </div>
+    </section>
+
+    <!-- Heatmap Visualizer Section -->
+    <section class="card heatmap-section">
+      <div class="card-header flex-between">
+        <div>
+          <h2 class="card-title">Live Contribution Graph Preview</h2>
+          <p class="card-desc">Simulated historical activity matching GitHub's 5-level green color palette.</p>
+        </div>
+        <!-- Year Filter Tabs -->
+        <div class="year-tabs" id="yearFilterTabs">
+          <button class="year-tab active" data-year="all">All Years</button>
+          <button class="year-tab" data-year="2019">2019</button>
+          <button class="year-tab" data-year="2020">2020</button>
+          <button class="year-tab" data-year="2021">2021</button>
+          <button class="year-tab" data-year="2022">2022</button>
+          <button class="year-tab" data-year="2023">2023</button>
+          <button class="year-tab" data-year="2024">2024</button>
+          <button class="year-tab" data-year="2025">2025</button>
+          <button class="year-tab" data-year="2026">2026</button>
+        </div>
+      </div>
+
+      <!-- Graph Container -->
+      <div class="heatmap-wrapper" id="heatmapWrapper">
+        <div class="heatmap-loading" id="heatmapLoading">Generating simulation graph...</div>
+        <div class="heatmaps-container" id="heatmapsContainer"></div>
+      </div>
+
+      <!-- Legend -->
+      <div class="heatmap-footer">
+        <div class="legend-text">Learn how GitHub counts contributions</div>
+        <div class="color-legend">
+          <span>Less</span>
+          <span class="legend-box level-0"></span>
+          <span class="legend-box level-1"></span>
+          <span class="legend-box level-2"></span>
+          <span class="legend-box level-3"></span>
+          <span class="legend-box level-4"></span>
+          <span>More</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Controls Grid: Configuration & Safety -->
+    <div class="controls-grid">
+      <!-- Left Column: Curve Configuration -->
+      <section class="card config-card">
+        <div class="card-header">
+          <h2 class="card-title">Contribution Density Curve</h2>
+          <p class="card-desc">Configure ramp-up patterns from 2019 to present (2026).</p>
+        </div>
+
+        <!-- Presets Bar -->
+        <div class="preset-selector-group">
+          <label class="control-label">Curve Presets</label>
+          <div class="preset-buttons" id="presetButtons">
+            <button class="preset-btn active" data-preset="progressive">
+              <span class="preset-badge">Recommended</span>
+              <strong>Progressive Ramp</strong>
+              <small>Sparse 2019 → Intense 2026</small>
+            </button>
+            <button class="preset-btn" data-preset="natural">
+              <strong>Realistic Natural</strong>
+              <small>Weekday focus + Organic dips</small>
+            </button>
+            <button class="preset-btn" data-preset="intense">
+              <strong>Green Wall</strong>
+              <small>High output 2019-2026</small>
+            </button>
+            <button class="preset-btn" data-preset="steady">
+              <strong>Steady Cadence</strong>
+              <small>Consistent ~65% activity</small>
+            </button>
+            <button class="preset-btn" data-preset="minimalist">
+              <strong>Minimalist</strong>
+              <small>Subtle light sprinkles</small>
+            </button>
+          </div>
+        </div>
+
+        <!-- Global Modifiers -->
+        <div class="global-modifiers">
+          <div class="modifier-row">
+            <div class="slider-label-group">
+              <label for="weekendWeightSlider">Weekend Multiplier</label>
+              <span class="slider-value" id="weekendWeightVal">0.35x</span>
+            </div>
+            <input type="range" id="weekendWeightSlider" min="0" max="1" step="0.05" value="0.35">
+            <p class="input-hint">Reduces commit frequency on Saturdays & Sundays for authentic engineer schedule.</p>
+          </div>
+        </div>
+
+        <!-- Yearly Matrix (2019 - 2026) -->
+        <div class="yearly-matrix-header">
+          <label class="control-label">Yearly Activity Matrix (2019 – 2026)</label>
+          <span class="hint-text">Adjust sliders below to fine-tune each year individually</span>
+        </div>
+
+        <div class="yearly-matrix-grid" id="yearlyMatrixGrid">
+          <!-- Dynamically generated for 2019 through 2026 -->
+        </div>
+      </section>
+
+      <!-- Right Column: Git Execution & Safety Deck -->
+      <section class="card safety-card">
+        <div class="card-header">
+          <h2 class="card-title">Git Setup & Safety Controls</h2>
+          <p class="card-desc">Configure author credentials, hook bypass, and push options.</p>
+        </div>
+
+        <!-- Email Warning Notice -->
+        <div class="alert-box alert-info">
+          <div class="alert-icon">💡</div>
+          <div class="alert-content">
+            <strong>GitHub Contribution Rule</strong>
+            <p>GitHub only attributes commits to your graph if the commit author email matches an email registered in your GitHub Account (<strong>Settings → Emails</strong>).</p>
+          </div>
+        </div>
+
+        <!-- Author Config -->
+        <div class="form-group">
+          <label for="authorNameInput">Git Author Name</label>
+          <input type="text" id="authorNameInput" class="form-input" placeholder="Your Name">
+        </div>
+
+        <div class="form-group">
+          <label for="authorEmailInput">Git Author Email</label>
+          <input type="email" id="authorEmailInput" class="form-input" placeholder="your.github.email@example.com">
+          <button type="button" class="btn-subtle" id="saveAuthorBtn">Save to Git Config</button>
+        </div>
+
+        <hr class="divider">
+
+        <!-- History Mode -->
+        <div class="form-group">
+          <label class="control-label">Branch History Mode</label>
+          <div class="radio-card-group">
+            <label class="radio-card">
+              <input type="radio" name="historyMode" value="clean" id="modeClean" checked>
+              <div class="radio-card-content">
+                <strong>Clean Slate (Recommended)</strong>
+                <p>Creates a safety backup tag, cleans old commits, and paints a pristine 2019–2026 timeline.</p>
+              </div>
+            </label>
+            <label class="radio-card">
+              <input type="radio" name="historyMode" value="append" id="modeAppend">
+              <div class="radio-card-content">
+                <strong>Append to Existing History</strong>
+                <p>Retains existing commits and appends new historical commits on top.</p>
+              </div>
+            </label>
+          </div>
+        </div>
+
+        <!-- Hook Safeguards -->
+        <div class="checkbox-row">
+          <input type="checkbox" id="bypassHooksCheckbox" checked>
+          <label for="bypassHooksCheckbox">
+            <strong>Bypass Local Git Hooks (--no-verify)</strong>
+            <span>Prevents local pre-commit, commit-msg, or pre-push linters from interrupting batch backdating.</span>
+          </label>
+        </div>
+
+        <!-- Target Branch & Remote -->
+        <div class="form-row-2">
+          <div class="form-group">
+            <label for="targetBranchInput">Target Branch</label>
+            <input type="text" id="targetBranchInput" class="form-input" value="main">
+          </div>
+          <div class="form-group">
+            <label for="targetRemoteInput">Target Remote</label>
+            <input type="text" id="targetRemoteInput" class="form-input" value="origin">
+          </div>
+        </div>
+
+        <hr class="divider">
+
+        <!-- Action Buttons -->
+        <div class="action-buttons-stack">
+          <button type="button" class="btn btn-secondary" id="previewSimBtn">
+            <svg viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+              <path d="M8 2a6 6 0 100 12A6 6 0 008 2zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+              <path d="M8 5a.75.75 0 01.75.75v2.5a.75.75 0 01-1.5 0v-2.5A.75.75 0 018 5zm0 6a1 1 0 100-2 1 1 0 000 2z"></path>
+            </svg>
+            Re-simulate Schedule
+          </button>
+
+          <button type="button" class="btn btn-primary" id="generateCommitsBtn">
+            <svg viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+              <path d="M8 0a8 8 0 100 16A8 8 0 008 0zm3.5 8.75l-4.25 4.25a.75.75 0 01-1.06 0l-2.25-2.25a.75.75 0 111.06-1.06L6.72 11.41l3.72-3.72a.75.75 0 111.06 1.06z"></path>
+            </svg>
+            Generate Historical Commits
+          </button>
+
+          <button type="button" class="btn btn-danger" id="pushRemoteBtn">
+            <svg viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+              <path d="M8 1a.75.75 0 01.75.75v8.19l2.72-2.72a.75.75 0 111.06 1.06l-4 4a.75.75 0 01-1.06 0l-4-4a.75.75 0 111.06-1.06l2.72 2.72V1.75A.75.75 0 018 1z"></path>
+            </svg>
+            Force Push to GitHub
+          </button>
+        </div>
+      </section>
+    </div>
+
+    <!-- Live Execution & Terminal Drawer -->
+    <section class="card execution-card" id="executionCard">
+      <div class="card-header flex-between">
+        <div>
+          <h2 class="card-title">Live Execution Console</h2>
+          <p class="card-desc" id="execStatusDesc">Ready to generate commits.</p>
+        </div>
+        <span class="status-chip idle" id="execStatusChip">IDLE</span>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="progress-bar-wrapper">
+        <div class="progress-info">
+          <span id="progressText">0% Complete</span>
+          <span id="progressStats">0 / 0 commits</span>
+        </div>
+        <div class="progress-track">
+          <div class="progress-fill" id="progressFill" style="width: 0%;"></div>
+        </div>
+      </div>
+
+      <!-- Terminal Output -->
+      <div class="terminal-container">
+        <div class="terminal-header">
+          <div class="term-dots">
+            <span class="dot red"></span>
+            <span class="dot yellow"></span>
+            <span class="dot green"></span>
+          </div>
+          <span class="term-title">git execution terminal</span>
+          <button type="button" class="term-clear-btn" id="clearLogsBtn">Clear</button>
+        </div>
+        <div class="terminal-body" id="terminalLogs">
+          <div class="log-line text-muted">[System ready. Configure parameters above and click "Generate Historical Commits"]</div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Push Confirmation Modal -->
+  <div class="modal-backdrop" id="pushModal" style="display: none;">
+    <div class="modal-card">
+      <div class="modal-header">
+        <div class="modal-icon-warning">⚠️</div>
+        <h3>Confirm Force Push to GitHub</h3>
+      </div>
+      <div class="modal-body">
+        <p>You are about to force-push backdated commits to:</p>
+        <div class="modal-repo-box">
+          <div><strong>Remote:</strong> <span id="modalRemote">origin</span> (<span id="modalRemoteUrl"></span>)</div>
+          <div><strong>Branch:</strong> <span id="modalBranch">main</span></div>
+        </div>
+        <p class="modal-note">Force pushing will rewrite the commit history of this branch on GitHub. Ensure this is your dedicated contribution repository or profile repo.</p>
+      </div>
+      <div class="modal-actions">
+        <button type="button" class="btn btn-secondary" id="cancelPushBtn">Cancel</button>
+        <button type="button" class="btn btn-danger" id="confirmPushBtn">Yes, Force Push Now</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Tooltip element -->
+  <div class="graph-tooltip" id="graphTooltip" style="display: none;"></div>
+
+  <footer class="app-footer">
+    <p>GreenGraph Automator &bull; Designed for Clean, Backdated GitHub Contributions &bull; 2019–2026</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
