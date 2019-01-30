@@ -16,3 +16,4 @@ Commit 13 | 2019-01-22 10:43:44 +0500 | docs: enhance code comments and setup gu
 Commit 14 | 2019-01-23 10:38:16 +0500 | perf: accelerate index lookup algorithms [2019-01-23 #1]
 Commit 15 | 2019-01-23 15:35:04 +0500 | chore: prune stale assets and logs [2019-01-23 #2]
 Commit 16 | 2019-01-30 09:04:26 +0500 | chore: prune stale assets and logs [2019-01-30 #1]
+Commit 17 | 2019-01-30 13:43:01 +0500 | fix: handle boundary condition in parser [2019-01-30 #2]
