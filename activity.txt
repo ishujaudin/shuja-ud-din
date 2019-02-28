@@ -40,3 +40,4 @@ Commit 37 | 2019-02-20 17:03:40 +0500 | style: format code according to style co
 Commit 38 | 2019-02-22 10:22:24 +0500 | refactor: modularize configuration utilities [2019-02-22 #1]
 Commit 39 | 2019-02-22 15:13:22 +0500 | test: add unit coverage for date transform modules [2019-02-22 #2]
 Commit 40 | 2019-02-25 10:45:13 +0500 | test: add unit coverage for date transform modules [2019-02-25 #1]
+Commit 41 | 2019-02-28 09:08:30 +0500 | build: tune compilation scripts and toolchain [2019-02-28 #1]
