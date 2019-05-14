@@ -86,3 +86,4 @@ Commit 83 | 2019-05-06 17:45:00 +0500 | chore: dependency maintenance and cleanu
 Commit 84 | 2019-05-10 10:40:42 +0500 | perf: optimize memory footprint during batch ingest [2019-05-10 #1]
 Commit 85 | 2019-05-11 09:10:43 +0500 | chore: dependency maintenance and cleanup [2019-05-11 #1]
 Commit 86 | 2019-05-13 09:06:05 +0500 | refactor: modularize configuration utilities [2019-05-13 #1]
+Commit 87 | 2019-05-14 09:35:41 +0500 | style: format code according to style conventions [2019-05-14 #1]
