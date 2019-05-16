@@ -89,3 +89,4 @@ Commit 86 | 2019-05-13 09:06:05 +0500 | refactor: modularize configuration utili
 Commit 87 | 2019-05-14 09:35:41 +0500 | style: format code according to style conventions [2019-05-14 #1]
 Commit 88 | 2019-05-14 14:36:38 +0500 | build: tune compilation scripts and toolchain [2019-05-14 #2]
 Commit 89 | 2019-05-14 17:59:58 +0500 | feat: add telemetry hooks for sync status [2019-05-14 #3]
+Commit 90 | 2019-05-16 09:27:14 +0500 | ci: update automated test workflow matrix [2019-05-16 #1]
