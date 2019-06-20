@@ -104,3 +104,4 @@ Commit 101 | 2019-06-13 17:54:54 +0500 | style: format code according to style c
 Commit 102 | 2019-06-14 10:19:31 +0500 | refactor: modularize configuration utilities [2019-06-14 #1]
 Commit 103 | 2019-06-14 14:02:49 +0500 | test: add unit coverage for date transform modules [2019-06-14 #2]
 Commit 104 | 2019-06-14 18:00:48 +0500 | ci: update automated test workflow matrix [2019-06-14 #3]
+Commit 105 | 2019-06-20 09:05:48 +0500 | build: tune compilation scripts and toolchain [2019-06-20 #1]
