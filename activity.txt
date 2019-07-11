@@ -119,3 +119,4 @@ Commit 116 | 2019-07-07 10:06:45 +0500 | perf: optimize memory footprint during 
 Commit 117 | 2019-07-07 14:18:03 +0500 | refactor: modularize configuration utilities [2019-07-07 #2]
 Commit 118 | 2019-07-07 18:23:52 +0500 | test: add unit coverage for date transform modules [2019-07-07 #3]
 Commit 119 | 2019-07-11 10:01:49 +0500 | style: format code according to style conventions [2019-07-11 #1]
+Commit 120 | 2019-07-11 14:37:37 +0500 | build: tune compilation scripts and toolchain [2019-07-11 #2]
