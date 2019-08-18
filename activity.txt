@@ -140,3 +140,4 @@ Commit 137 | 2019-08-03 10:24:30 +0500 | build: tune compilation scripts and too
 Commit 138 | 2019-08-05 10:04:23 +0500 | ci: update automated test workflow matrix [2019-08-05 #1]
 Commit 139 | 2019-08-05 15:10:52 +0500 | fix: resolve race condition in cache invalidation [2019-08-05 #2]
 Commit 140 | 2019-08-08 10:17:51 +0500 | fix: resolve race condition in cache invalidation [2019-08-08 #1]
+Commit 141 | 2019-08-18 09:43:59 +0500 | docs: enhance code comments and setup guide [2019-08-18 #1]
