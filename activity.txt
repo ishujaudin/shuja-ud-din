@@ -163,3 +163,4 @@ Commit 160 | 2019-09-12 16:44:05 +0500 | feat: refine data pipeline routines [20
 Commit 161 | 2019-09-17 10:34:17 +0500 | feat: refine data pipeline routines [2019-09-17 #1]
 Commit 162 | 2019-09-19 09:56:20 +0500 | fix: handle boundary condition in parser [2019-09-19 #1]
 Commit 163 | 2019-09-19 13:59:08 +0500 | perf: optimize memory footprint during batch ingest [2019-09-19 #2]
+Commit 164 | 2019-09-19 18:31:56 +0500 | refactor: modularize configuration utilities [2019-09-19 #3]
