@@ -175,3 +175,4 @@ Commit 172 | 2019-10-08 16:43:39 +0500 | docs: enhance code comments and setup g
 Commit 173 | 2019-10-09 10:36:28 +0500 | docs: enhance code comments and setup guide [2019-10-09 #1]
 Commit 174 | 2019-10-10 09:25:24 +0500 | perf: accelerate index lookup algorithms [2019-10-10 #1]
 Commit 175 | 2019-10-10 14:11:04 +0500 | chore: prune stale assets and logs [2019-10-10 #2]
+Commit 176 | 2019-10-10 18:21:08 +0500 | fix: handle boundary condition in parser [2019-10-10 #3]
