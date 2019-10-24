@@ -197,3 +197,4 @@ Commit 194 | 2019-10-19 17:36:44 +0500 | perf: optimize memory footprint during 
 Commit 195 | 2019-10-22 10:49:09 +0500 | docs: update architecture references [2019-10-22 #1]
 Commit 196 | 2019-10-22 14:15:19 +0500 | chore: dependency maintenance and cleanup [2019-10-22 #2]
 Commit 197 | 2019-10-22 18:21:58 +0500 | style: format code according to style conventions [2019-10-22 #3]
+Commit 198 | 2019-10-24 10:39:25 +0500 | refactor: modularize configuration utilities [2019-10-24 #1]
