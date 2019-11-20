@@ -226,3 +226,4 @@ Commit 223 | 2019-11-18 10:19:36 +0500 | refactor: extract reusable helper compo
 Commit 224 | 2019-11-18 13:56:30 +0500 | feat: refine data pipeline routines [2019-11-18 #2]
 Commit 225 | 2019-11-18 18:54:25 +0500 | docs: update architecture references [2019-11-18 #3]
 Commit 226 | 2019-11-20 10:37:35 +0500 | fix: handle boundary condition in parser [2019-11-20 #1]
+Commit 227 | 2019-11-20 16:27:02 +0500 | perf: optimize memory footprint during batch ingest [2019-11-20 #2]
