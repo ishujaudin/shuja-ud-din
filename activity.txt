@@ -228,3 +228,4 @@ Commit 225 | 2019-11-18 18:54:25 +0500 | docs: update architecture references [2
 Commit 226 | 2019-11-20 10:37:35 +0500 | fix: handle boundary condition in parser [2019-11-20 #1]
 Commit 227 | 2019-11-20 16:27:02 +0500 | perf: optimize memory footprint during batch ingest [2019-11-20 #2]
 Commit 228 | 2019-11-22 09:21:43 +0500 | perf: optimize memory footprint during batch ingest [2019-11-22 #1]
+Commit 229 | 2019-11-22 15:39:24 +0500 | refactor: modularize configuration utilities [2019-11-22 #2]
