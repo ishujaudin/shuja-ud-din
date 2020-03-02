@@ -302,3 +302,4 @@ Commit 299 | 2020-02-21 10:26:10 +0500 | feat: add telemetry hooks for sync stat
 Commit 300 | 2020-03-01 09:13:15 +0500 | fix: resolve race condition in cache invalidation [2020-03-01 #1]
 Commit 301 | 2020-03-01 15:36:34 +0500 | perf: accelerate index lookup algorithms [2020-03-01 #2]
 Commit 302 | 2020-03-02 10:55:11 +0500 | perf: accelerate index lookup algorithms [2020-03-02 #1]
+Commit 303 | 2020-03-02 13:50:56 +0500 | chore: prune stale assets and logs [2020-03-02 #2]
