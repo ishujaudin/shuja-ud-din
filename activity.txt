@@ -305,3 +305,4 @@ Commit 302 | 2020-03-02 10:55:11 +0500 | perf: accelerate index lookup algorithm
 Commit 303 | 2020-03-02 13:50:56 +0500 | chore: prune stale assets and logs [2020-03-02 #2]
 Commit 304 | 2020-03-02 16:55:07 +0500 | fix: handle boundary condition in parser [2020-03-02 #3]
 Commit 305 | 2020-03-02 19:07:56 +0500 | perf: optimize memory footprint during batch ingest [2020-03-02 #4]
+Commit 306 | 2020-03-05 10:25:53 +0500 | fix: handle boundary condition in parser [2020-03-05 #1]
