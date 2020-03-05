@@ -307,3 +307,4 @@ Commit 304 | 2020-03-02 16:55:07 +0500 | fix: handle boundary condition in parse
 Commit 305 | 2020-03-02 19:07:56 +0500 | perf: optimize memory footprint during batch ingest [2020-03-02 #4]
 Commit 306 | 2020-03-05 10:25:53 +0500 | fix: handle boundary condition in parser [2020-03-05 #1]
 Commit 307 | 2020-03-05 13:29:17 +0500 | perf: optimize memory footprint during batch ingest [2020-03-05 #2]
+Commit 308 | 2020-03-05 18:26:20 +0500 | refactor: modularize configuration utilities [2020-03-05 #3]
