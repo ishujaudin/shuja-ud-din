@@ -339,3 +339,4 @@ Commit 336 | 2020-04-07 10:00:14 +0500 | chore: prune stale assets and logs [202
 Commit 337 | 2020-04-07 13:34:19 +0500 | fix: handle boundary condition in parser [2020-04-07 #2]
 Commit 338 | 2020-04-07 15:47:05 +0500 | perf: optimize memory footprint during batch ingest [2020-04-07 #3]
 Commit 339 | 2020-04-07 19:27:15 +0500 | refactor: modularize configuration utilities [2020-04-07 #4]
+Commit 340 | 2020-04-08 10:35:40 +0500 | perf: optimize memory footprint during batch ingest [2020-04-08 #1]
