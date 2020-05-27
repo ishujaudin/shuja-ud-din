@@ -406,3 +406,4 @@ Commit 403 | 2020-05-26 10:04:51 +0500 | docs: update architecture references [2
 Commit 404 | 2020-05-26 16:32:00 +0500 | chore: dependency maintenance and cleanup [2020-05-26 #2]
 Commit 405 | 2020-05-27 10:03:24 +0500 | chore: dependency maintenance and cleanup [2020-05-27 #1]
 Commit 406 | 2020-05-27 12:24:58 +0500 | style: format code according to style conventions [2020-05-27 #2]
+Commit 407 | 2020-05-27 15:41:27 +0500 | build: tune compilation scripts and toolchain [2020-05-27 #3]
