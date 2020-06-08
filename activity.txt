@@ -417,3 +417,4 @@ Commit 414 | 2020-06-02 12:37:02 +0500 | refactor: extract reusable helper compo
 Commit 415 | 2020-06-02 15:47:57 +0500 | feat: refine data pipeline routines [2020-06-02 #3]
 Commit 416 | 2020-06-02 18:51:55 +0500 | docs: update architecture references [2020-06-02 #4]
 Commit 417 | 2020-06-03 10:51:21 +0500 | feat: refine data pipeline routines [2020-06-03 #1]
+Commit 418 | 2020-06-08 10:32:59 +0500 | fix: handle boundary condition in parser [2020-06-08 #1]
