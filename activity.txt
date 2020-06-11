@@ -422,3 +422,4 @@ Commit 419 | 2020-06-09 09:38:14 +0500 | docs: update architecture references [2
 Commit 420 | 2020-06-09 16:48:27 +0500 | chore: dependency maintenance and cleanup [2020-06-09 #2]
 Commit 421 | 2020-06-11 10:47:38 +0500 | chore: dependency maintenance and cleanup [2020-06-11 #1]
 Commit 422 | 2020-06-11 13:24:11 +0500 | style: format code according to style conventions [2020-06-11 #2]
+Commit 423 | 2020-06-11 15:55:58 +0500 | build: tune compilation scripts and toolchain [2020-06-11 #3]
