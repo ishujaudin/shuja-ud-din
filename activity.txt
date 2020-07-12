@@ -440,3 +440,4 @@ Commit 437 | 2020-07-02 15:27:13 +0500 | style: format code according to style c
 Commit 438 | 2020-07-02 19:40:10 +0500 | build: tune compilation scripts and toolchain [2020-07-02 #4]
 Commit 439 | 2020-07-07 10:03:54 +0500 | style: format code according to style conventions [2020-07-07 #1]
 Commit 440 | 2020-07-12 09:01:39 +0500 | test: add unit coverage for date transform modules [2020-07-12 #1]
+Commit 441 | 2020-07-12 16:59:49 +0500 | ci: update automated test workflow matrix [2020-07-12 #2]
