@@ -463,3 +463,4 @@ Commit 460 | 2020-07-30 15:57:48 +0500 | perf: accelerate index lookup algorithm
 Commit 461 | 2020-07-30 19:00:19 +0500 | chore: prune stale assets and logs [2020-07-30 #4]
 Commit 462 | 2020-07-31 10:16:54 +0500 | perf: accelerate index lookup algorithms [2020-07-31 #1]
 Commit 463 | 2020-07-31 13:02:22 +0500 | chore: prune stale assets and logs [2020-07-31 #2]
+Commit 464 | 2020-07-31 15:04:37 +0500 | fix: handle boundary condition in parser [2020-07-31 #3]
