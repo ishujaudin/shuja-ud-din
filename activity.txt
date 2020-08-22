@@ -482,3 +482,4 @@ Commit 479 | 2020-08-14 15:40:26 +0500 | chore: prune stale assets and logs [202
 Commit 480 | 2020-08-18 10:35:48 +0500 | chore: prune stale assets and logs [2020-08-18 #1]
 Commit 481 | 2020-08-18 16:49:07 +0500 | fix: handle boundary condition in parser [2020-08-18 #2]
 Commit 482 | 2020-08-20 10:11:30 +0500 | fix: handle boundary condition in parser [2020-08-20 #1]
+Commit 483 | 2020-08-22 09:54:33 +0500 | docs: update architecture references [2020-08-22 #1]
