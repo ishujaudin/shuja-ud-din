@@ -554,3 +554,4 @@ Commit 551 | 2020-10-23 10:31:37 +0500 | style: format code according to style c
 Commit 552 | 2020-10-23 14:45:34 +0500 | build: tune compilation scripts and toolchain [2020-10-23 #2]
 Commit 553 | 2020-10-23 18:47:46 +0500 | feat: add telemetry hooks for sync status [2020-10-23 #3]
 Commit 554 | 2020-10-26 10:19:09 +0500 | ci: update automated test workflow matrix [2020-10-26 #1]
+Commit 555 | 2020-10-26 15:46:09 +0500 | fix: resolve race condition in cache invalidation [2020-10-26 #2]
