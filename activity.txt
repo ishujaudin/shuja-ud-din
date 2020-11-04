@@ -562,3 +562,4 @@ Commit 559 | 2020-10-30 10:46:31 +0500 | refactor: extract reusable helper compo
 Commit 560 | 2020-10-30 16:39:29 +0500 | feat: refine data pipeline routines [2020-10-30 #2]
 Commit 561 | 2020-11-02 10:47:15 +0500 | feat: refine data pipeline routines [2020-11-02 #1]
 Commit 562 | 2020-11-04 09:39:45 +0500 | fix: handle boundary condition in parser [2020-11-04 #1]
+Commit 563 | 2020-11-04 14:59:52 +0500 | perf: optimize memory footprint during batch ingest [2020-11-04 #2]
