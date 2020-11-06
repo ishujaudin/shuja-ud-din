@@ -566,3 +566,4 @@ Commit 563 | 2020-11-04 14:59:52 +0500 | perf: optimize memory footprint during 
 Commit 564 | 2020-11-04 18:48:39 +0500 | refactor: modularize configuration utilities [2020-11-04 #3]
 Commit 565 | 2020-11-06 10:03:50 +0500 | chore: dependency maintenance and cleanup [2020-11-06 #1]
 Commit 566 | 2020-11-06 12:20:35 +0500 | style: format code according to style conventions [2020-11-06 #2]
+Commit 567 | 2020-11-06 16:58:24 +0500 | build: tune compilation scripts and toolchain [2020-11-06 #3]
