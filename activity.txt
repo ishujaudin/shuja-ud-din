@@ -592,3 +592,4 @@ Commit 589 | 2020-11-25 09:14:02 +0500 | docs: enhance code comments and setup g
 Commit 590 | 2020-11-25 14:27:43 +0500 | refactor: extract reusable helper components [2020-11-25 #2]
 Commit 591 | 2020-11-25 18:30:20 +0500 | feat: refine data pipeline routines [2020-11-25 #3]
 Commit 592 | 2020-11-26 09:42:32 +0500 | chore: prune stale assets and logs [2020-11-26 #1]
+Commit 593 | 2020-11-26 16:20:50 +0500 | fix: handle boundary condition in parser [2020-11-26 #2]
