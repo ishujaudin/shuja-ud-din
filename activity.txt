@@ -603,3 +603,4 @@ Commit 600 | 2020-12-10 19:17:03 +0500 | feat: add telemetry hooks for sync stat
 Commit 601 | 2020-12-11 10:23:00 +0500 | build: tune compilation scripts and toolchain [2020-12-11 #1]
 Commit 602 | 2020-12-11 16:35:56 +0500 | feat: add telemetry hooks for sync status [2020-12-11 #2]
 Commit 603 | 2020-12-14 09:42:07 +0500 | feat: add telemetry hooks for sync status [2020-12-14 #1]
+Commit 604 | 2020-12-14 13:09:27 +0500 | docs: enhance code comments and setup guide [2020-12-14 #2]
