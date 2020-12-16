@@ -607,3 +607,4 @@ Commit 604 | 2020-12-14 13:09:27 +0500 | docs: enhance code comments and setup g
 Commit 605 | 2020-12-14 18:05:04 +0500 | refactor: extract reusable helper components [2020-12-14 #3]
 Commit 606 | 2020-12-16 10:34:12 +0500 | perf: accelerate index lookup algorithms [2020-12-16 #1]
 Commit 607 | 2020-12-16 12:50:22 +0500 | chore: prune stale assets and logs [2020-12-16 #2]
+Commit 608 | 2020-12-16 15:58:59 +0500 | fix: handle boundary condition in parser [2020-12-16 #3]
