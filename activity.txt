@@ -646,3 +646,4 @@ Commit 643 | 2021-01-18 16:41:32 +0500 | chore: dependency maintenance and clean
 Commit 644 | 2021-01-18 19:48:29 +0500 | style: format code according to style conventions [2021-01-18 #4]
 Commit 645 | 2021-01-20 09:16:29 +0500 | chore: dependency maintenance and cleanup [2021-01-20 #1]
 Commit 646 | 2021-01-20 13:21:39 +0500 | style: format code according to style conventions [2021-01-20 #2]
+Commit 647 | 2021-01-20 15:32:41 +0500 | build: tune compilation scripts and toolchain [2021-01-20 #3]
