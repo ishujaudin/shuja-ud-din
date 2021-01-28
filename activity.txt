@@ -657,3 +657,4 @@ Commit 654 | 2021-01-27 15:04:38 +0500 | chore: prune stale assets and logs [202
 Commit 655 | 2021-01-27 18:16:06 +0500 | fix: handle boundary condition in parser [2021-01-27 #4]
 Commit 656 | 2021-01-28 10:16:28 +0500 | chore: prune stale assets and logs [2021-01-28 #1]
 Commit 657 | 2021-01-28 13:57:59 +0500 | fix: handle boundary condition in parser [2021-01-28 #2]
+Commit 658 | 2021-01-28 18:46:22 +0500 | perf: optimize memory footprint during batch ingest [2021-01-28 #3]
