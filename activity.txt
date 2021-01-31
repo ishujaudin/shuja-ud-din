@@ -662,3 +662,4 @@ Commit 659 | 2021-01-29 09:27:41 +0500 | docs: update architecture references [2
 Commit 660 | 2021-01-29 15:49:08 +0500 | chore: dependency maintenance and cleanup [2021-01-29 #2]
 Commit 661 | 2021-01-31 09:45:02 +0500 | chore: dependency maintenance and cleanup [2021-01-31 #1]
 Commit 662 | 2021-01-31 13:40:20 +0500 | style: format code according to style conventions [2021-01-31 #2]
+Commit 663 | 2021-01-31 15:48:36 +0500 | build: tune compilation scripts and toolchain [2021-01-31 #3]
