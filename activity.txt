@@ -666,3 +666,4 @@ Commit 663 | 2021-01-31 15:48:36 +0500 | build: tune compilation scripts and too
 Commit 664 | 2021-01-31 18:25:53 +0500 | feat: add telemetry hooks for sync status [2021-01-31 #4]
 Commit 665 | 2021-02-01 09:42:49 +0500 | build: tune compilation scripts and toolchain [2021-02-01 #1]
 Commit 666 | 2021-02-01 12:55:51 +0500 | feat: add telemetry hooks for sync status [2021-02-01 #2]
+Commit 667 | 2021-02-01 15:00:01 +0500 | docs: enhance code comments and setup guide [2021-02-01 #3]
