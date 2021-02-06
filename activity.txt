@@ -674,3 +674,4 @@ Commit 671 | 2021-02-02 17:07:25 +0500 | feat: refine data pipeline routines [20
 Commit 672 | 2021-02-03 09:21:11 +0500 | chore: prune stale assets and logs [2021-02-03 #1]
 Commit 673 | 2021-02-03 15:20:38 +0500 | fix: handle boundary condition in parser [2021-02-03 #2]
 Commit 674 | 2021-02-06 09:48:32 +0500 | fix: handle boundary condition in parser [2021-02-06 #1]
+Commit 675 | 2021-02-06 16:41:52 +0500 | perf: optimize memory footprint during batch ingest [2021-02-06 #2]
