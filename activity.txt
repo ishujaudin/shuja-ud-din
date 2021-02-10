@@ -681,3 +681,4 @@ Commit 678 | 2021-02-09 09:39:57 +0500 | refactor: modularize configuration util
 Commit 679 | 2021-02-09 14:00:27 +0500 | test: add unit coverage for date transform modules [2021-02-09 #2]
 Commit 680 | 2021-02-09 18:09:41 +0500 | ci: update automated test workflow matrix [2021-02-09 #3]
 Commit 681 | 2021-02-10 10:21:38 +0500 | build: tune compilation scripts and toolchain [2021-02-10 #1]
+Commit 682 | 2021-02-10 16:46:48 +0500 | feat: add telemetry hooks for sync status [2021-02-10 #2]
