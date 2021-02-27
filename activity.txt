@@ -706,3 +706,4 @@ Commit 703 | 2021-02-25 18:47:05 +0500 | feat: refine data pipeline routines [20
 Commit 704 | 2021-02-26 10:58:56 +0500 | chore: prune stale assets and logs [2021-02-26 #1]
 Commit 705 | 2021-02-26 13:23:26 +0500 | fix: handle boundary condition in parser [2021-02-26 #2]
 Commit 706 | 2021-02-26 18:54:24 +0500 | perf: optimize memory footprint during batch ingest [2021-02-26 #3]
+Commit 707 | 2021-02-27 10:40:33 +0500 | docs: update architecture references [2021-02-27 #1]
