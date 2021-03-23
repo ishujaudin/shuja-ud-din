@@ -753,3 +753,4 @@ Commit 750 | 2021-03-19 09:27:51 +0500 | perf: accelerate index lookup algorithm
 Commit 751 | 2021-03-19 13:10:38 +0500 | chore: prune stale assets and logs [2021-03-19 #2]
 Commit 752 | 2021-03-19 17:58:30 +0500 | fix: handle boundary condition in parser [2021-03-19 #3]
 Commit 753 | 2021-03-23 09:11:35 +0500 | feat: refine data pipeline routines [2021-03-23 #1]
+Commit 754 | 2021-03-23 13:37:28 +0500 | docs: update architecture references [2021-03-23 #2]
