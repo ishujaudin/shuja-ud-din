@@ -759,3 +759,4 @@ Commit 756 | 2021-03-23 18:02:02 +0500 | style: format code according to style c
 Commit 757 | 2021-03-29 09:41:24 +0500 | chore: dependency maintenance and cleanup [2021-03-29 #1]
 Commit 758 | 2021-03-29 14:36:00 +0500 | style: format code according to style conventions [2021-03-29 #2]
 Commit 759 | 2021-03-29 17:25:54 +0500 | build: tune compilation scripts and toolchain [2021-03-29 #3]
+Commit 760 | 2021-03-31 10:38:07 +0500 | test: add unit coverage for date transform modules [2021-03-31 #1]
