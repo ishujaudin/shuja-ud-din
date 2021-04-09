@@ -779,3 +779,4 @@ Commit 776 | 2021-04-06 15:33:49 +0500 | build: tune compilation scripts and too
 Commit 777 | 2021-04-08 09:04:00 +0500 | build: tune compilation scripts and toolchain [2021-04-08 #1]
 Commit 778 | 2021-04-08 15:10:33 +0500 | feat: add telemetry hooks for sync status [2021-04-08 #2]
 Commit 779 | 2021-04-09 10:02:31 +0500 | feat: add telemetry hooks for sync status [2021-04-09 #1]
+Commit 780 | 2021-04-09 13:01:07 +0500 | docs: enhance code comments and setup guide [2021-04-09 #2]
