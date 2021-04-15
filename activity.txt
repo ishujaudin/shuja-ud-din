@@ -789,3 +789,4 @@ Commit 786 | 2021-04-13 18:17:56 +0500 | chore: dependency maintenance and clean
 Commit 787 | 2021-04-15 09:18:37 +0500 | docs: update architecture references [2021-04-15 #1]
 Commit 788 | 2021-04-15 13:38:24 +0500 | chore: dependency maintenance and cleanup [2021-04-15 #2]
 Commit 789 | 2021-04-15 16:02:04 +0500 | style: format code according to style conventions [2021-04-15 #3]
+Commit 790 | 2021-04-15 19:07:49 +0500 | build: tune compilation scripts and toolchain [2021-04-15 #4]
