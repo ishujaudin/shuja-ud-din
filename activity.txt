@@ -792,3 +792,4 @@ Commit 789 | 2021-04-15 16:02:04 +0500 | style: format code according to style c
 Commit 790 | 2021-04-15 19:07:49 +0500 | build: tune compilation scripts and toolchain [2021-04-15 #4]
 Commit 791 | 2021-04-16 09:35:16 +0500 | style: format code according to style conventions [2021-04-16 #1]
 Commit 792 | 2021-04-16 14:39:15 +0500 | build: tune compilation scripts and toolchain [2021-04-16 #2]
+Commit 793 | 2021-04-16 17:21:05 +0500 | feat: add telemetry hooks for sync status [2021-04-16 #3]
