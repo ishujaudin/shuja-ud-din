@@ -817,3 +817,4 @@ Commit 814 | 2021-05-04 09:07:52 +0500 | perf: accelerate index lookup algorithm
 Commit 815 | 2021-05-04 14:05:55 +0500 | chore: prune stale assets and logs [2021-05-04 #2]
 Commit 816 | 2021-05-04 17:36:24 +0500 | fix: handle boundary condition in parser [2021-05-04 #3]
 Commit 817 | 2021-05-06 09:03:37 +0500 | feat: refine data pipeline routines [2021-05-06 #1]
+Commit 818 | 2021-05-06 15:03:48 +0500 | docs: update architecture references [2021-05-06 #2]
