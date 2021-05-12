@@ -823,3 +823,4 @@ Commit 820 | 2021-05-10 13:08:37 +0500 | chore: dependency maintenance and clean
 Commit 821 | 2021-05-10 16:14:27 +0500 | style: format code according to style conventions [2021-05-10 #3]
 Commit 822 | 2021-05-10 19:09:06 +0500 | build: tune compilation scripts and toolchain [2021-05-10 #4]
 Commit 823 | 2021-05-12 10:32:14 +0500 | style: format code according to style conventions [2021-05-12 #1]
+Commit 824 | 2021-05-12 12:12:26 +0500 | build: tune compilation scripts and toolchain [2021-05-12 #2]
