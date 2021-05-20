@@ -833,3 +833,4 @@ Commit 830 | 2021-05-14 10:52:22 +0500 | perf: accelerate index lookup algorithm
 Commit 831 | 2021-05-14 16:00:40 +0500 | chore: prune stale assets and logs [2021-05-14 #2]
 Commit 832 | 2021-05-18 09:15:58 +0500 | chore: prune stale assets and logs [2021-05-18 #1]
 Commit 833 | 2021-05-18 16:00:03 +0500 | fix: handle boundary condition in parser [2021-05-18 #2]
+Commit 834 | 2021-05-20 09:27:47 +0500 | fix: handle boundary condition in parser [2021-05-20 #1]
