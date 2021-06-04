@@ -857,3 +857,4 @@ Commit 854 | 2021-06-01 18:30:21 +0500 | test: add unit coverage for date transf
 Commit 855 | 2021-06-03 10:59:54 +0500 | style: format code according to style conventions [2021-06-03 #1]
 Commit 856 | 2021-06-03 15:43:44 +0500 | build: tune compilation scripts and toolchain [2021-06-03 #2]
 Commit 857 | 2021-06-04 09:24:48 +0500 | build: tune compilation scripts and toolchain [2021-06-04 #1]
+Commit 858 | 2021-06-04 15:30:04 +0500 | feat: add telemetry hooks for sync status [2021-06-04 #2]
