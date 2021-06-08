@@ -863,3 +863,4 @@ Commit 860 | 2021-06-07 15:59:55 +0500 | docs: enhance code comments and setup g
 Commit 861 | 2021-06-08 10:19:56 +0500 | docs: enhance code comments and setup guide [2021-06-08 #1]
 Commit 862 | 2021-06-08 12:24:59 +0500 | refactor: extract reusable helper components [2021-06-08 #2]
 Commit 863 | 2021-06-08 16:59:52 +0500 | feat: refine data pipeline routines [2021-06-08 #3]
+Commit 864 | 2021-06-08 19:15:42 +0500 | docs: update architecture references [2021-06-08 #4]
