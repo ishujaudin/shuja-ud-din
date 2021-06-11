@@ -873,3 +873,4 @@ Commit 870 | 2021-06-10 18:12:41 +0500 | build: tune compilation scripts and too
 Commit 871 | 2021-06-11 09:16:55 +0500 | style: format code according to style conventions [2021-06-11 #1]
 Commit 872 | 2021-06-11 12:29:26 +0500 | build: tune compilation scripts and toolchain [2021-06-11 #2]
 Commit 873 | 2021-06-11 16:41:27 +0500 | feat: add telemetry hooks for sync status [2021-06-11 #3]
+Commit 874 | 2021-06-11 18:37:51 +0500 | docs: enhance code comments and setup guide [2021-06-11 #4]
