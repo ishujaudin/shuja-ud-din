@@ -889,3 +889,4 @@ Commit 886 | 2021-06-18 19:09:24 +0500 | build: tune compilation scripts and too
 Commit 887 | 2021-06-21 09:51:40 +0500 | style: format code according to style conventions [2021-06-21 #1]
 Commit 888 | 2021-06-21 14:54:12 +0500 | build: tune compilation scripts and toolchain [2021-06-21 #2]
 Commit 889 | 2021-06-21 17:34:49 +0500 | feat: add telemetry hooks for sync status [2021-06-21 #3]
+Commit 890 | 2021-06-22 09:49:03 +0500 | ci: update automated test workflow matrix [2021-06-22 #1]
