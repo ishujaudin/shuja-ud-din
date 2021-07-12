@@ -933,3 +933,4 @@ Commit 930 | 2021-07-08 16:46:53 +0500 | docs: update architecture references [2
 Commit 931 | 2021-07-12 09:19:11 +0500 | docs: update architecture references [2021-07-12 #1]
 Commit 932 | 2021-07-12 13:09:20 +0500 | chore: dependency maintenance and cleanup [2021-07-12 #2]
 Commit 933 | 2021-07-12 15:31:26 +0500 | style: format code according to style conventions [2021-07-12 #3]
+Commit 934 | 2021-07-12 18:09:27 +0500 | build: tune compilation scripts and toolchain [2021-07-12 #4]
