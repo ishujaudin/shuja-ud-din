@@ -935,3 +935,4 @@ Commit 932 | 2021-07-12 13:09:20 +0500 | chore: dependency maintenance and clean
 Commit 933 | 2021-07-12 15:31:26 +0500 | style: format code according to style conventions [2021-07-12 #3]
 Commit 934 | 2021-07-12 18:09:27 +0500 | build: tune compilation scripts and toolchain [2021-07-12 #4]
 Commit 935 | 2021-07-13 09:25:54 +0500 | style: format code according to style conventions [2021-07-13 #1]
+Commit 936 | 2021-07-13 12:16:45 +0500 | build: tune compilation scripts and toolchain [2021-07-13 #2]
