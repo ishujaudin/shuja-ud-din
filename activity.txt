@@ -944,3 +944,4 @@ Commit 941 | 2021-07-15 15:37:32 +0500 | refactor: extract reusable helper compo
 Commit 942 | 2021-07-15 18:12:23 +0500 | feat: refine data pipeline routines [2021-07-15 #4]
 Commit 943 | 2021-07-20 10:36:07 +0500 | refactor: extract reusable helper components [2021-07-20 #1]
 Commit 944 | 2021-07-20 13:02:10 +0500 | feat: refine data pipeline routines [2021-07-20 #2]
+Commit 945 | 2021-07-20 18:54:39 +0500 | docs: update architecture references [2021-07-20 #3]
