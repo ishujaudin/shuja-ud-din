@@ -946,3 +946,4 @@ Commit 943 | 2021-07-20 10:36:07 +0500 | refactor: extract reusable helper compo
 Commit 944 | 2021-07-20 13:02:10 +0500 | feat: refine data pipeline routines [2021-07-20 #2]
 Commit 945 | 2021-07-20 18:54:39 +0500 | docs: update architecture references [2021-07-20 #3]
 Commit 946 | 2021-07-21 09:45:52 +0500 | fix: handle boundary condition in parser [2021-07-21 #1]
+Commit 947 | 2021-07-21 13:45:44 +0500 | perf: optimize memory footprint during batch ingest [2021-07-21 #2]
