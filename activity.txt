@@ -953,3 +953,4 @@ Commit 950 | 2021-07-26 13:12:15 +0500 | style: format code according to style c
 Commit 951 | 2021-07-26 17:30:01 +0500 | build: tune compilation scripts and toolchain [2021-07-26 #3]
 Commit 952 | 2021-07-27 10:17:51 +0500 | test: add unit coverage for date transform modules [2021-07-27 #1]
 Commit 953 | 2021-07-27 15:30:36 +0500 | ci: update automated test workflow matrix [2021-07-27 #2]
+Commit 954 | 2021-07-28 09:10:19 +0500 | ci: update automated test workflow matrix [2021-07-28 #1]
