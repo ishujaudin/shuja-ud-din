@@ -960,3 +960,4 @@ Commit 957 | 2021-07-29 09:26:26 +0500 | docs: enhance code comments and setup g
 Commit 958 | 2021-07-29 15:51:13 +0500 | refactor: extract reusable helper components [2021-07-29 #2]
 Commit 959 | 2021-08-02 10:16:44 +0500 | refactor: extract reusable helper components [2021-08-02 #1]
 Commit 960 | 2021-08-02 13:45:32 +0500 | feat: refine data pipeline routines [2021-08-02 #2]
+Commit 961 | 2021-08-02 15:10:32 +0500 | docs: update architecture references [2021-08-02 #3]
