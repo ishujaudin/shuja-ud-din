@@ -983,3 +983,4 @@ Commit 980 | 2021-08-17 13:20:06 +0500 | chore: dependency maintenance and clean
 Commit 981 | 2021-08-17 18:40:34 +0500 | style: format code according to style conventions [2021-08-17 #3]
 Commit 982 | 2021-08-18 09:16:48 +0500 | refactor: modularize configuration utilities [2021-08-18 #1]
 Commit 983 | 2021-08-18 13:42:35 +0500 | test: add unit coverage for date transform modules [2021-08-18 #2]
+Commit 984 | 2021-08-18 17:09:23 +0500 | ci: update automated test workflow matrix [2021-08-18 #3]
