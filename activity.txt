@@ -987,3 +987,4 @@ Commit 984 | 2021-08-18 17:09:23 +0500 | ci: update automated test workflow matr
 Commit 985 | 2021-08-20 10:49:49 +0500 | build: tune compilation scripts and toolchain [2021-08-20 #1]
 Commit 986 | 2021-08-20 12:44:56 +0500 | feat: add telemetry hooks for sync status [2021-08-20 #2]
 Commit 987 | 2021-08-20 15:02:50 +0500 | docs: enhance code comments and setup guide [2021-08-20 #3]
+Commit 988 | 2021-08-20 19:49:24 +0500 | refactor: extract reusable helper components [2021-08-20 #4]
