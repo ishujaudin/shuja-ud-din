@@ -993,3 +993,4 @@ Commit 990 | 2021-08-22 16:17:34 +0500 | refactor: extract reusable helper compo
 Commit 991 | 2021-08-23 09:45:49 +0500 | refactor: extract reusable helper components [2021-08-23 #1]
 Commit 992 | 2021-08-23 13:09:14 +0500 | feat: refine data pipeline routines [2021-08-23 #2]
 Commit 993 | 2021-08-23 17:31:59 +0500 | docs: update architecture references [2021-08-23 #3]
+Commit 994 | 2021-08-24 09:39:13 +0500 | fix: handle boundary condition in parser [2021-08-24 #1]
