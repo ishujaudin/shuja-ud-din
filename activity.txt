@@ -1041,3 +1041,4 @@ Commit 1038 | 2021-09-27 09:53:35 +0500 | perf: accelerate index lookup algorith
 Commit 1039 | 2021-09-27 16:28:09 +0500 | chore: prune stale assets and logs [2021-09-27 #2]
 Commit 1040 | 2021-09-28 10:59:52 +0500 | chore: prune stale assets and logs [2021-09-28 #1]
 Commit 1041 | 2021-09-28 12:53:58 +0500 | fix: handle boundary condition in parser [2021-09-28 #2]
+Commit 1042 | 2021-09-28 16:11:34 +0500 | perf: optimize memory footprint during batch ingest [2021-09-28 #3]
