@@ -1089,3 +1089,4 @@ Commit 1086 | 2021-10-29 16:52:16 +0500 | refactor: extract reusable helper comp
 Commit 1087 | 2021-11-02 09:04:28 +0500 | refactor: extract reusable helper components [2021-11-02 #1]
 Commit 1088 | 2021-11-02 14:43:21 +0500 | feat: refine data pipeline routines [2021-11-02 #2]
 Commit 1089 | 2021-11-02 18:16:38 +0500 | docs: update architecture references [2021-11-02 #3]
+Commit 1090 | 2021-11-03 10:00:30 +0500 | fix: handle boundary condition in parser [2021-11-03 #1]
