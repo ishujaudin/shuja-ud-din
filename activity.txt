@@ -1145,3 +1145,4 @@ Commit 1142 | 2021-12-05 17:03:15 +0500 | test: add unit coverage for date trans
 Commit 1143 | 2021-12-06 10:54:28 +0500 | style: format code according to style conventions [2021-12-06 #1]
 Commit 1144 | 2021-12-06 12:27:43 +0500 | build: tune compilation scripts and toolchain [2021-12-06 #2]
 Commit 1145 | 2021-12-06 15:18:05 +0500 | feat: add telemetry hooks for sync status [2021-12-06 #3]
+Commit 1146 | 2021-12-06 18:02:18 +0500 | docs: enhance code comments and setup guide [2021-12-06 #4]
