@@ -1159,3 +1159,4 @@ Commit 1156 | 2021-12-10 18:43:03 +0500 | refactor: modularize configuration uti
 Commit 1157 | 2021-12-13 10:49:20 +0500 | chore: dependency maintenance and cleanup [2021-12-13 #1]
 Commit 1158 | 2021-12-13 15:59:25 +0500 | style: format code according to style conventions [2021-12-13 #2]
 Commit 1159 | 2021-12-14 09:40:36 +0500 | style: format code according to style conventions [2021-12-14 #1]
+Commit 1160 | 2021-12-14 13:59:03 +0500 | build: tune compilation scripts and toolchain [2021-12-14 #2]
