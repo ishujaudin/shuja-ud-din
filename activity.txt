@@ -1177,3 +1177,4 @@ Commit 1174 | 2021-12-20 19:12:36 +0500 | build: tune compilation scripts and to
 Commit 1175 | 2021-12-21 09:23:51 +0500 | style: format code according to style conventions [2021-12-21 #1]
 Commit 1176 | 2021-12-21 13:33:54 +0500 | build: tune compilation scripts and toolchain [2021-12-21 #2]
 Commit 1177 | 2021-12-21 16:27:29 +0500 | feat: add telemetry hooks for sync status [2021-12-21 #3]
+Commit 1178 | 2021-12-21 18:59:33 +0500 | docs: enhance code comments and setup guide [2021-12-21 #4]
