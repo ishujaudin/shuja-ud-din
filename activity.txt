@@ -1206,3 +1206,4 @@ Commit 1203 | 2022-01-02 15:26:29 +0500 | chore: dependency maintenance and clea
 Commit 1204 | 2022-01-02 19:33:32 +0500 | style: format code according to style conventions [2022-01-02 #4]
 Commit 1205 | 2022-01-04 10:11:59 +0500 | chore: dependency maintenance and cleanup [2022-01-04 #1]
 Commit 1206 | 2022-01-04 12:47:42 +0500 | style: format code according to style conventions [2022-01-04 #2]
+Commit 1207 | 2022-01-04 15:54:41 +0500 | build: tune compilation scripts and toolchain [2022-01-04 #3]
