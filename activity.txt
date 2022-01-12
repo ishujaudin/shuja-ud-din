@@ -1223,3 +1223,4 @@ Commit 1220 | 2022-01-11 14:25:30 +0500 | refactor: modularize configuration uti
 Commit 1221 | 2022-01-11 16:46:20 +0500 | test: add unit coverage for date transform modules [2022-01-11 #4]
 Commit 1222 | 2022-01-11 20:09:43 +0500 | ci: update automated test workflow matrix [2022-01-11 #5]
 Commit 1223 | 2022-01-12 09:06:42 +0500 | style: format code according to style conventions [2022-01-12 #1]
+Commit 1224 | 2022-01-12 13:23:13 +0500 | build: tune compilation scripts and toolchain [2022-01-12 #2]
