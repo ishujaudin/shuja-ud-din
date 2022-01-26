@@ -1256,3 +1256,4 @@ Commit 1253 | 2022-01-25 10:30:33 +0500 | chore: dependency maintenance and clea
 Commit 1254 | 2022-01-25 15:49:06 +0500 | style: format code according to style conventions [2022-01-25 #2]
 Commit 1255 | 2022-01-26 09:54:24 +0500 | style: format code according to style conventions [2022-01-26 #1]
 Commit 1256 | 2022-01-26 12:37:41 +0500 | build: tune compilation scripts and toolchain [2022-01-26 #2]
+Commit 1257 | 2022-01-26 15:21:50 +0500 | feat: add telemetry hooks for sync status [2022-01-26 #3]
