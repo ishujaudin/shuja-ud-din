@@ -1295,3 +1295,4 @@ Commit 1292 | 2022-02-10 09:53:33 +0500 | fix: resolve race condition in cache i
 Commit 1293 | 2022-02-10 12:51:29 +0500 | perf: accelerate index lookup algorithms [2022-02-10 #2]
 Commit 1294 | 2022-02-10 14:02:24 +0500 | chore: prune stale assets and logs [2022-02-10 #3]
 Commit 1295 | 2022-02-10 16:14:52 +0500 | fix: handle boundary condition in parser [2022-02-10 #4]
+Commit 1296 | 2022-02-10 19:45:27 +0500 | perf: optimize memory footprint during batch ingest [2022-02-10 #5]
