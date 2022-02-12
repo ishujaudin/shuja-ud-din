@@ -1297,3 +1297,4 @@ Commit 1294 | 2022-02-10 14:02:24 +0500 | chore: prune stale assets and logs [20
 Commit 1295 | 2022-02-10 16:14:52 +0500 | fix: handle boundary condition in parser [2022-02-10 #4]
 Commit 1296 | 2022-02-10 19:45:27 +0500 | perf: optimize memory footprint during batch ingest [2022-02-10 #5]
 Commit 1297 | 2022-02-12 10:19:29 +0500 | feat: refine data pipeline routines [2022-02-12 #1]
+Commit 1298 | 2022-02-12 12:09:02 +0500 | docs: update architecture references [2022-02-12 #2]
