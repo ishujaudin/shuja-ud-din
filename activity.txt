@@ -1303,3 +1303,4 @@ Commit 1300 | 2022-02-12 18:00:12 +0500 | style: format code according to style 
 Commit 1301 | 2022-02-14 09:53:29 +0500 | chore: dependency maintenance and cleanup [2022-02-14 #1]
 Commit 1302 | 2022-02-14 12:09:47 +0500 | style: format code according to style conventions [2022-02-14 #2]
 Commit 1303 | 2022-02-14 16:11:24 +0500 | build: tune compilation scripts and toolchain [2022-02-14 #3]
+Commit 1304 | 2022-02-14 19:04:38 +0500 | feat: add telemetry hooks for sync status [2022-02-14 #4]
