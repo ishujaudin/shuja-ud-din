@@ -1307,3 +1307,4 @@ Commit 1304 | 2022-02-14 19:04:38 +0500 | feat: add telemetry hooks for sync sta
 Commit 1305 | 2022-02-17 09:28:24 +0500 | build: tune compilation scripts and toolchain [2022-02-17 #1]
 Commit 1306 | 2022-02-17 14:57:38 +0500 | feat: add telemetry hooks for sync status [2022-02-17 #2]
 Commit 1307 | 2022-02-17 17:04:46 +0500 | docs: enhance code comments and setup guide [2022-02-17 #3]
+Commit 1308 | 2022-02-21 10:31:07 +0500 | fix: resolve race condition in cache invalidation [2022-02-21 #1]
