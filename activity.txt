@@ -1312,3 +1312,4 @@ Commit 1309 | 2022-02-21 16:11:39 +0500 | perf: accelerate index lookup algorith
 Commit 1310 | 2022-02-28 10:11:46 +0500 | perf: accelerate index lookup algorithms [2022-02-28 #1]
 Commit 1311 | 2022-02-28 12:13:45 +0500 | chore: prune stale assets and logs [2022-02-28 #2]
 Commit 1312 | 2022-02-28 15:28:26 +0500 | fix: handle boundary condition in parser [2022-02-28 #3]
+Commit 1313 | 2022-02-28 18:36:03 +0500 | perf: optimize memory footprint during batch ingest [2022-02-28 #4]
