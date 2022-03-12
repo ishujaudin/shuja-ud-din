@@ -1335,3 +1335,4 @@ Commit 1332 | 2022-03-10 17:51:46 +0500 | refactor: modularize configuration uti
 Commit 1333 | 2022-03-11 10:39:44 +0500 | chore: dependency maintenance and cleanup [2022-03-11 #1]
 Commit 1334 | 2022-03-11 15:51:49 +0500 | style: format code according to style conventions [2022-03-11 #2]
 Commit 1335 | 2022-03-12 10:50:52 +0500 | style: format code according to style conventions [2022-03-12 #1]
+Commit 1336 | 2022-03-12 12:37:54 +0500 | build: tune compilation scripts and toolchain [2022-03-12 #2]
