@@ -1337,3 +1337,4 @@ Commit 1334 | 2022-03-11 15:51:49 +0500 | style: format code according to style 
 Commit 1335 | 2022-03-12 10:50:52 +0500 | style: format code according to style conventions [2022-03-12 #1]
 Commit 1336 | 2022-03-12 12:37:54 +0500 | build: tune compilation scripts and toolchain [2022-03-12 #2]
 Commit 1337 | 2022-03-12 14:58:15 +0500 | feat: add telemetry hooks for sync status [2022-03-12 #3]
+Commit 1338 | 2022-03-12 16:53:29 +0500 | docs: enhance code comments and setup guide [2022-03-12 #4]
