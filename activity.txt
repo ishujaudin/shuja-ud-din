@@ -1376,3 +1376,4 @@ Commit 1373 | 2022-03-30 15:48:31 +0500 | refactor: extract reusable helper comp
 Commit 1374 | 2022-03-30 19:56:23 +0500 | feat: refine data pipeline routines [2022-03-30 #4]
 Commit 1375 | 2022-03-31 10:44:39 +0500 | refactor: extract reusable helper components [2022-03-31 #1]
 Commit 1376 | 2022-03-31 12:59:38 +0500 | feat: refine data pipeline routines [2022-03-31 #2]
+Commit 1377 | 2022-03-31 15:09:30 +0500 | docs: update architecture references [2022-03-31 #3]
