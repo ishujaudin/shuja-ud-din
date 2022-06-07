@@ -1513,3 +1513,4 @@ Commit 1510 | 2022-06-04 18:11:09 +0500 | build: tune compilation scripts and to
 Commit 1511 | 2022-06-06 09:08:39 +0500 | style: format code according to style conventions [2022-06-06 #1]
 Commit 1512 | 2022-06-06 14:48:52 +0500 | build: tune compilation scripts and toolchain [2022-06-06 #2]
 Commit 1513 | 2022-06-06 17:39:46 +0500 | feat: add telemetry hooks for sync status [2022-06-06 #3]
+Commit 1514 | 2022-06-07 10:08:11 +0500 | ci: update automated test workflow matrix [2022-06-07 #1]
