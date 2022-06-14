@@ -1529,3 +1529,4 @@ Commit 1526 | 2022-06-10 11:11:00 +0500 | style: format code according to style 
 Commit 1527 | 2022-06-10 14:00:17 +0500 | build: tune compilation scripts and toolchain [2022-06-10 #3]
 Commit 1528 | 2022-06-10 17:35:06 +0500 | feat: add telemetry hooks for sync status [2022-06-10 #4]
 Commit 1529 | 2022-06-10 19:50:54 +0500 | docs: enhance code comments and setup guide [2022-06-10 #5]
+Commit 1530 | 2022-06-14 09:06:00 +0500 | ci: update automated test workflow matrix [2022-06-14 #1]
