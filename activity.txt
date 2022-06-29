@@ -1567,3 +1567,4 @@ Commit 1564 | 2022-06-29 10:30:44 +0500 | fix: resolve race condition in cache i
 Commit 1565 | 2022-06-29 12:37:31 +0500 | perf: accelerate index lookup algorithms [2022-06-29 #2]
 Commit 1566 | 2022-06-29 14:19:42 +0500 | chore: prune stale assets and logs [2022-06-29 #3]
 Commit 1567 | 2022-06-29 17:46:37 +0500 | fix: handle boundary condition in parser [2022-06-29 #4]
+Commit 1568 | 2022-06-29 19:48:58 +0500 | perf: optimize memory footprint during batch ingest [2022-06-29 #5]
