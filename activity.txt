@@ -1590,3 +1590,4 @@ Commit 1587 | 2022-07-08 16:07:17 +0500 | chore: dependency maintenance and clea
 Commit 1588 | 2022-07-08 18:58:00 +0500 | style: format code according to style conventions [2022-07-08 #4]
 Commit 1589 | 2022-07-10 10:47:42 +0500 | chore: dependency maintenance and cleanup [2022-07-10 #1]
 Commit 1590 | 2022-07-10 13:25:18 +0500 | style: format code according to style conventions [2022-07-10 #2]
+Commit 1591 | 2022-07-10 17:40:15 +0500 | build: tune compilation scripts and toolchain [2022-07-10 #3]
