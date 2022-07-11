@@ -1592,3 +1592,4 @@ Commit 1589 | 2022-07-10 10:47:42 +0500 | chore: dependency maintenance and clea
 Commit 1590 | 2022-07-10 13:25:18 +0500 | style: format code according to style conventions [2022-07-10 #2]
 Commit 1591 | 2022-07-10 17:40:15 +0500 | build: tune compilation scripts and toolchain [2022-07-10 #3]
 Commit 1592 | 2022-07-11 09:21:16 +0500 | test: add unit coverage for date transform modules [2022-07-11 #1]
+Commit 1593 | 2022-07-11 12:21:21 +0500 | ci: update automated test workflow matrix [2022-07-11 #2]
