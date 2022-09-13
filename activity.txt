@@ -1706,3 +1706,4 @@ Commit 1703 | 2022-09-12 09:17:10 +0500 | style: format code according to style 
 Commit 1704 | 2022-09-12 13:26:56 +0500 | build: tune compilation scripts and toolchain [2022-09-12 #2]
 Commit 1705 | 2022-09-12 17:41:36 +0500 | feat: add telemetry hooks for sync status [2022-09-12 #3]
 Commit 1706 | 2022-09-13 10:02:43 +0500 | ci: update automated test workflow matrix [2022-09-13 #1]
+Commit 1707 | 2022-09-13 14:54:31 +0500 | fix: resolve race condition in cache invalidation [2022-09-13 #2]
