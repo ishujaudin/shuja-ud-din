@@ -1835,3 +1835,4 @@ Commit 1832 | 2022-12-01 15:35:46 +0500 | build: tune compilation scripts and to
 Commit 1833 | 2022-12-02 10:28:36 +0500 | build: tune compilation scripts and toolchain [2022-12-02 #1]
 Commit 1834 | 2022-12-02 16:54:56 +0500 | feat: add telemetry hooks for sync status [2022-12-02 #2]
 Commit 1835 | 2022-12-05 09:34:33 +0500 | feat: add telemetry hooks for sync status [2022-12-05 #1]
+Commit 1836 | 2022-12-05 16:14:40 +0500 | docs: enhance code comments and setup guide [2022-12-05 #2]
