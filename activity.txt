@@ -1858,3 +1858,4 @@ Commit 1855 | 2022-12-12 18:14:00 +0500 | fix: handle boundary condition in pars
 Commit 1856 | 2022-12-13 10:37:54 +0500 | chore: prune stale assets and logs [2022-12-13 #1]
 Commit 1857 | 2022-12-13 14:49:45 +0500 | fix: handle boundary condition in parser [2022-12-13 #2]
 Commit 1858 | 2022-12-13 17:43:31 +0500 | perf: optimize memory footprint during batch ingest [2022-12-13 #3]
+Commit 1859 | 2022-12-14 09:16:16 +0500 | docs: update architecture references [2022-12-14 #1]
