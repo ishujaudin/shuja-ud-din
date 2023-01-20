@@ -1935,3 +1935,4 @@ Commit 1932 | 2023-01-19 19:04:08 +0500 | refactor: extract reusable helper comp
 Commit 1933 | 2023-01-20 10:10:54 +0500 | docs: enhance code comments and setup guide [2023-01-20 #1]
 Commit 1934 | 2023-01-20 12:43:16 +0500 | refactor: extract reusable helper components [2023-01-20 #2]
 Commit 1935 | 2023-01-20 16:04:25 +0500 | feat: refine data pipeline routines [2023-01-20 #3]
+Commit 1936 | 2023-01-20 18:08:48 +0500 | docs: update architecture references [2023-01-20 #4]
