@@ -1959,3 +1959,4 @@ Commit 1956 | 2023-01-29 17:52:15 +0500 | style: format code according to style 
 Commit 1957 | 2023-01-29 20:09:44 +0500 | build: tune compilation scripts and toolchain [2023-01-29 #5]
 Commit 1958 | 2023-01-30 10:02:22 +0500 | refactor: modularize configuration utilities [2023-01-30 #1]
 Commit 1959 | 2023-01-30 13:52:51 +0500 | test: add unit coverage for date transform modules [2023-01-30 #2]
+Commit 1960 | 2023-01-30 17:49:09 +0500 | ci: update automated test workflow matrix [2023-01-30 #3]
