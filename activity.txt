@@ -1974,3 +1974,4 @@ Commit 1971 | 2023-02-02 16:31:43 +0500 | chore: dependency maintenance and clea
 Commit 1972 | 2023-02-02 18:39:17 +0500 | style: format code according to style conventions [2023-02-02 #4]
 Commit 1973 | 2023-02-03 10:35:33 +0500 | chore: dependency maintenance and cleanup [2023-02-03 #1]
 Commit 1974 | 2023-02-03 11:03:39 +0500 | style: format code according to style conventions [2023-02-03 #2]
+Commit 1975 | 2023-02-03 15:16:09 +0500 | build: tune compilation scripts and toolchain [2023-02-03 #3]
