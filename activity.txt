@@ -2086,3 +2086,4 @@ Commit 2083 | 2023-03-24 13:48:41 +0500 | perf: optimize memory footprint during
 Commit 2084 | 2023-03-24 17:22:58 +0500 | refactor: modularize configuration utilities [2023-03-24 #3]
 Commit 2085 | 2023-03-27 10:10:25 +0500 | chore: dependency maintenance and cleanup [2023-03-27 #1]
 Commit 2086 | 2023-03-27 12:51:40 +0500 | style: format code according to style conventions [2023-03-27 #2]
+Commit 2087 | 2023-03-27 14:01:05 +0500 | build: tune compilation scripts and toolchain [2023-03-27 #3]
