@@ -2119,3 +2119,4 @@ Commit 2116 | 2023-04-11 13:15:02 +0500 | chore: dependency maintenance and clea
 Commit 2117 | 2023-04-11 15:13:21 +0500 | style: format code according to style conventions [2023-04-11 #3]
 Commit 2118 | 2023-04-11 18:30:29 +0500 | build: tune compilation scripts and toolchain [2023-04-11 #4]
 Commit 2119 | 2023-04-12 09:55:25 +0500 | style: format code according to style conventions [2023-04-12 #1]
+Commit 2120 | 2023-04-12 12:00:51 +0500 | build: tune compilation scripts and toolchain [2023-04-12 #2]
