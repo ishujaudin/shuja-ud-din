@@ -2124,3 +2124,4 @@ Commit 2121 | 2023-04-12 16:59:33 +0500 | feat: add telemetry hooks for sync sta
 Commit 2122 | 2023-04-12 18:55:29 +0500 | docs: enhance code comments and setup guide [2023-04-12 #4]
 Commit 2123 | 2023-04-14 09:31:57 +0500 | feat: add telemetry hooks for sync status [2023-04-14 #1]
 Commit 2124 | 2023-04-14 14:59:19 +0500 | docs: enhance code comments and setup guide [2023-04-14 #2]
+Commit 2125 | 2023-04-14 18:07:30 +0500 | refactor: extract reusable helper components [2023-04-14 #3]
