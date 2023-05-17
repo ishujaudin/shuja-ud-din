@@ -2201,3 +2201,4 @@ Commit 2198 | 2023-05-12 20:08:38 +0500 | ci: update automated test workflow mat
 Commit 2199 | 2023-05-16 10:55:23 +0500 | style: format code according to style conventions [2023-05-16 #1]
 Commit 2200 | 2023-05-16 13:27:57 +0500 | build: tune compilation scripts and toolchain [2023-05-16 #2]
 Commit 2201 | 2023-05-16 17:22:51 +0500 | feat: add telemetry hooks for sync status [2023-05-16 #3]
+Commit 2202 | 2023-05-17 09:49:36 +0500 | ci: update automated test workflow matrix [2023-05-17 #1]
