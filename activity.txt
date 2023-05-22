@@ -2214,3 +2214,4 @@ Commit 2211 | 2023-05-19 14:07:01 +0500 | perf: optimize memory footprint during
 Commit 2212 | 2023-05-19 18:39:31 +0500 | refactor: modularize configuration utilities [2023-05-19 #3]
 Commit 2213 | 2023-05-22 10:33:13 +0500 | chore: dependency maintenance and cleanup [2023-05-22 #1]
 Commit 2214 | 2023-05-22 11:27:33 +0500 | style: format code according to style conventions [2023-05-22 #2]
+Commit 2215 | 2023-05-22 14:30:21 +0500 | build: tune compilation scripts and toolchain [2023-05-22 #3]
