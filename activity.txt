@@ -2243,3 +2243,4 @@ Commit 2240 | 2023-06-02 16:49:27 +0500 | fix: handle boundary condition in pars
 Commit 2241 | 2023-06-02 18:37:12 +0500 | perf: optimize memory footprint during batch ingest [2023-06-02 #4]
 Commit 2242 | 2023-06-05 09:29:25 +0500 | fix: handle boundary condition in parser [2023-06-05 #1]
 Commit 2243 | 2023-06-05 13:27:29 +0500 | perf: optimize memory footprint during batch ingest [2023-06-05 #2]
+Commit 2244 | 2023-06-05 17:51:32 +0500 | refactor: modularize configuration utilities [2023-06-05 #3]
