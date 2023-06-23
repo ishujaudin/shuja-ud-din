@@ -2290,3 +2290,4 @@ Commit 2287 | 2023-06-21 15:43:10 +0500 | chore: prune stale assets and logs [20
 Commit 2288 | 2023-06-22 10:57:05 +0500 | chore: prune stale assets and logs [2023-06-22 #1]
 Commit 2289 | 2023-06-22 14:59:24 +0500 | fix: handle boundary condition in parser [2023-06-22 #2]
 Commit 2290 | 2023-06-22 17:13:51 +0500 | perf: optimize memory footprint during batch ingest [2023-06-22 #3]
+Commit 2291 | 2023-06-23 09:10:07 +0500 | docs: update architecture references [2023-06-23 #1]
