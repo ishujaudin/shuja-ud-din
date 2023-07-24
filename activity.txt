@@ -2376,3 +2376,4 @@ Commit 2373 | 2023-07-24 10:59:30 +0500 | chore: dependency maintenance and clea
 Commit 2374 | 2023-07-24 12:17:00 +0500 | style: format code according to style conventions [2023-07-24 #2]
 Commit 2375 | 2023-07-24 14:40:06 +0500 | build: tune compilation scripts and toolchain [2023-07-24 #3]
 Commit 2376 | 2023-07-24 17:18:29 +0500 | feat: add telemetry hooks for sync status [2023-07-24 #4]
+Commit 2377 | 2023-07-24 19:55:09 +0500 | docs: enhance code comments and setup guide [2023-07-24 #5]
