@@ -2417,3 +2417,4 @@ Commit 2414 | 2023-08-08 10:05:46 +0500 | perf: accelerate index lookup algorith
 Commit 2415 | 2023-08-08 13:56:43 +0500 | chore: prune stale assets and logs [2023-08-08 #2]
 Commit 2416 | 2023-08-08 16:36:04 +0500 | fix: handle boundary condition in parser [2023-08-08 #3]
 Commit 2417 | 2023-08-08 18:43:32 +0500 | perf: optimize memory footprint during batch ingest [2023-08-08 #4]
+Commit 2418 | 2023-08-10 09:35:08 +0500 | fix: handle boundary condition in parser [2023-08-10 #1]
