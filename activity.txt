@@ -2489,3 +2489,4 @@ Commit 2486 | 2023-09-03 11:18:35 +0500 | style: format code according to style 
 Commit 2487 | 2023-09-03 15:31:16 +0500 | build: tune compilation scripts and toolchain [2023-09-03 #3]
 Commit 2488 | 2023-09-03 16:51:36 +0500 | feat: add telemetry hooks for sync status [2023-09-03 #4]
 Commit 2489 | 2023-09-03 19:17:34 +0500 | docs: enhance code comments and setup guide [2023-09-03 #5]
+Commit 2490 | 2023-09-04 09:33:18 +0500 | ci: update automated test workflow matrix [2023-09-04 #1]
