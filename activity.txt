@@ -2490,3 +2490,4 @@ Commit 2487 | 2023-09-03 15:31:16 +0500 | build: tune compilation scripts and to
 Commit 2488 | 2023-09-03 16:51:36 +0500 | feat: add telemetry hooks for sync status [2023-09-03 #4]
 Commit 2489 | 2023-09-03 19:17:34 +0500 | docs: enhance code comments and setup guide [2023-09-03 #5]
 Commit 2490 | 2023-09-04 09:33:18 +0500 | ci: update automated test workflow matrix [2023-09-04 #1]
+Commit 2491 | 2023-09-04 12:29:14 +0500 | fix: resolve race condition in cache invalidation [2023-09-04 #2]
