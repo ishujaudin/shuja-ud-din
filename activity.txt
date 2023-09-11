@@ -2504,3 +2504,4 @@ Commit 2501 | 2023-09-11 10:39:39 +0500 | chore: dependency maintenance and clea
 Commit 2502 | 2023-09-11 12:42:04 +0500 | style: format code according to style conventions [2023-09-11 #2]
 Commit 2503 | 2023-09-11 15:06:21 +0500 | build: tune compilation scripts and toolchain [2023-09-11 #3]
 Commit 2504 | 2023-09-11 17:16:43 +0500 | feat: add telemetry hooks for sync status [2023-09-11 #4]
+Commit 2505 | 2023-09-11 20:06:07 +0500 | docs: enhance code comments and setup guide [2023-09-11 #5]
