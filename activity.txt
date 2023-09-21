@@ -2528,3 +2528,4 @@ Commit 2525 | 2023-09-19 19:35:45 +0500 | chore: prune stale assets and logs [20
 Commit 2526 | 2023-09-21 10:10:39 +0500 | perf: accelerate index lookup algorithms [2023-09-21 #1]
 Commit 2527 | 2023-09-21 11:01:09 +0500 | chore: prune stale assets and logs [2023-09-21 #2]
 Commit 2528 | 2023-09-21 14:00:08 +0500 | fix: handle boundary condition in parser [2023-09-21 #3]
+Commit 2529 | 2023-09-21 16:31:45 +0500 | perf: optimize memory footprint during batch ingest [2023-09-21 #4]
