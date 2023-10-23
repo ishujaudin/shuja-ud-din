@@ -2587,3 +2587,4 @@ Commit 2584 | 2023-10-19 20:00:12 +0500 | fix: resolve race condition in cache i
 Commit 2585 | 2023-10-20 09:49:01 +0500 | build: tune compilation scripts and toolchain [2023-10-20 #1]
 Commit 2586 | 2023-10-20 15:56:42 +0500 | feat: add telemetry hooks for sync status [2023-10-20 #2]
 Commit 2587 | 2023-10-23 10:41:30 +0500 | feat: add telemetry hooks for sync status [2023-10-23 #1]
+Commit 2588 | 2023-10-23 12:05:39 +0500 | docs: enhance code comments and setup guide [2023-10-23 #2]
