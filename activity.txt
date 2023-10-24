@@ -2593,3 +2593,4 @@ Commit 2590 | 2023-10-23 16:33:47 +0500 | feat: refine data pipeline routines [2
 Commit 2591 | 2023-10-23 19:58:57 +0500 | docs: update architecture references [2023-10-23 #5]
 Commit 2592 | 2023-10-24 10:56:07 +0500 | chore: prune stale assets and logs [2023-10-24 #1]
 Commit 2593 | 2023-10-24 12:01:33 +0500 | fix: handle boundary condition in parser [2023-10-24 #2]
+Commit 2594 | 2023-10-24 15:11:21 +0500 | perf: optimize memory footprint during batch ingest [2023-10-24 #3]
