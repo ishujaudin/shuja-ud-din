@@ -2596,3 +2596,4 @@ Commit 2593 | 2023-10-24 12:01:33 +0500 | fix: handle boundary condition in pars
 Commit 2594 | 2023-10-24 15:11:21 +0500 | perf: optimize memory footprint during batch ingest [2023-10-24 #3]
 Commit 2595 | 2023-10-24 18:03:56 +0500 | refactor: modularize configuration utilities [2023-10-24 #4]
 Commit 2596 | 2023-10-27 10:38:28 +0500 | perf: optimize memory footprint during batch ingest [2023-10-27 #1]
+Commit 2597 | 2023-10-27 12:58:26 +0500 | refactor: modularize configuration utilities [2023-10-27 #2]
