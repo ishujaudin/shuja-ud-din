@@ -2604,3 +2604,4 @@ Commit 2601 | 2023-10-30 10:54:27 +0500 | build: tune compilation scripts and to
 Commit 2602 | 2023-10-30 13:53:21 +0500 | feat: add telemetry hooks for sync status [2023-10-30 #2]
 Commit 2603 | 2023-10-30 15:16:29 +0500 | docs: enhance code comments and setup guide [2023-10-30 #3]
 Commit 2604 | 2023-10-30 18:27:21 +0500 | refactor: extract reusable helper components [2023-10-30 #4]
+Commit 2605 | 2023-10-31 10:51:51 +0500 | docs: enhance code comments and setup guide [2023-10-31 #1]
