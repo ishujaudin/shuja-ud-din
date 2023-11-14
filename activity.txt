@@ -2627,3 +2627,4 @@ Commit 2624 | 2023-11-09 14:44:26 +0500 | feat: refine data pipeline routines [2
 Commit 2625 | 2023-11-09 18:46:32 +0500 | docs: update architecture references [2023-11-09 #3]
 Commit 2626 | 2023-11-14 09:27:18 +0500 | fix: handle boundary condition in parser [2023-11-14 #1]
 Commit 2627 | 2023-11-14 12:54:26 +0500 | perf: optimize memory footprint during batch ingest [2023-11-14 #2]
+Commit 2628 | 2023-11-14 15:00:57 +0500 | refactor: modularize configuration utilities [2023-11-14 #3]
