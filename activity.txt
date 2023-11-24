@@ -2650,3 +2650,4 @@ Commit 2647 | 2023-11-23 09:02:29 +0500 | style: format code according to style 
 Commit 2648 | 2023-11-23 14:49:30 +0500 | build: tune compilation scripts and toolchain [2023-11-23 #2]
 Commit 2649 | 2023-11-23 17:36:11 +0500 | feat: add telemetry hooks for sync status [2023-11-23 #3]
 Commit 2650 | 2023-11-24 10:59:37 +0500 | ci: update automated test workflow matrix [2023-11-24 #1]
+Commit 2651 | 2023-11-24 11:31:40 +0500 | fix: resolve race condition in cache invalidation [2023-11-24 #2]
