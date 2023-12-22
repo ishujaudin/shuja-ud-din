@@ -2721,3 +2721,4 @@ Commit 2718 | 2023-12-21 15:08:54 +0500 | chore: prune stale assets and logs [20
 Commit 2719 | 2023-12-21 19:21:37 +0500 | fix: handle boundary condition in parser [2023-12-21 #4]
 Commit 2720 | 2023-12-22 09:51:42 +0500 | chore: prune stale assets and logs [2023-12-22 #1]
 Commit 2721 | 2023-12-22 14:44:41 +0500 | fix: handle boundary condition in parser [2023-12-22 #2]
+Commit 2722 | 2023-12-22 18:42:49 +0500 | perf: optimize memory footprint during batch ingest [2023-12-22 #3]
