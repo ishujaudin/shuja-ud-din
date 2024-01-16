@@ -2778,3 +2778,4 @@ Commit 2775 | 2024-01-15 14:23:00 +0500 | test: add unit coverage for date trans
 Commit 2776 | 2024-01-15 18:02:42 +0500 | ci: update automated test workflow matrix [2024-01-15 #3]
 Commit 2777 | 2024-01-16 09:07:43 +0500 | build: tune compilation scripts and toolchain [2024-01-16 #1]
 Commit 2778 | 2024-01-16 11:36:12 +0500 | feat: add telemetry hooks for sync status [2024-01-16 #2]
+Commit 2779 | 2024-01-16 15:45:09 +0500 | docs: enhance code comments and setup guide [2024-01-16 #3]
