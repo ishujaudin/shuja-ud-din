@@ -2857,3 +2857,4 @@ Commit 2854 | 2024-02-10 13:45:11 +0500 | style: format code according to style 
 Commit 2855 | 2024-02-10 17:34:35 +0500 | build: tune compilation scripts and toolchain [2024-02-10 #3]
 Commit 2856 | 2024-02-11 10:29:22 +0500 | test: add unit coverage for date transform modules [2024-02-11 #1]
 Commit 2857 | 2024-02-11 16:29:34 +0500 | ci: update automated test workflow matrix [2024-02-11 #2]
+Commit 2858 | 2024-02-13 10:15:09 +0500 | ci: update automated test workflow matrix [2024-02-13 #1]
