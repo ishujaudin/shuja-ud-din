@@ -2875,3 +2875,4 @@ Commit 2872 | 2024-02-16 20:19:08 +0500 | fix: resolve race condition in cache i
 Commit 2873 | 2024-02-19 09:59:03 +0500 | build: tune compilation scripts and toolchain [2024-02-19 #1]
 Commit 2874 | 2024-02-19 15:40:02 +0500 | feat: add telemetry hooks for sync status [2024-02-19 #2]
 Commit 2875 | 2024-02-20 10:40:24 +0500 | feat: add telemetry hooks for sync status [2024-02-20 #1]
+Commit 2876 | 2024-02-20 11:18:05 +0500 | docs: enhance code comments and setup guide [2024-02-20 #2]
