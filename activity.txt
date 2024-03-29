@@ -2975,3 +2975,4 @@ Commit 2972 | 2024-03-28 14:37:20 +0500 | perf: accelerate index lookup algorith
 Commit 2973 | 2024-03-28 15:34:55 +0500 | chore: prune stale assets and logs [2024-03-28 #4]
 Commit 2974 | 2024-03-28 18:39:13 +0500 | fix: handle boundary condition in parser [2024-03-28 #5]
 Commit 2975 | 2024-03-28 20:53:09 +0500 | perf: optimize memory footprint during batch ingest [2024-03-28 #6]
+Commit 2976 | 2024-03-29 10:34:17 +0500 | chore: prune stale assets and logs [2024-03-29 #1]
