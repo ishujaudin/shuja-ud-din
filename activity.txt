@@ -2997,3 +2997,4 @@ Commit 2994 | 2024-04-04 10:13:03 +0500 | fix: handle boundary condition in pars
 Commit 2995 | 2024-04-04 13:11:03 +0500 | perf: optimize memory footprint during batch ingest [2024-04-04 #2]
 Commit 2996 | 2024-04-04 15:38:46 +0500 | refactor: modularize configuration utilities [2024-04-04 #3]
 Commit 2997 | 2024-04-04 19:27:37 +0500 | test: add unit coverage for date transform modules [2024-04-04 #4]
+Commit 2998 | 2024-04-05 09:28:48 +0500 | refactor: modularize configuration utilities [2024-04-05 #1]
