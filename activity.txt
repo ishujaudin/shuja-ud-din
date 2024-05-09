@@ -3096,3 +3096,4 @@ Commit 3093 | 2024-05-09 09:38:38 +0500 | chore: dependency maintenance and clea
 Commit 3094 | 2024-05-09 11:13:40 +0500 | style: format code according to style conventions [2024-05-09 #2]
 Commit 3095 | 2024-05-09 15:08:26 +0500 | build: tune compilation scripts and toolchain [2024-05-09 #3]
 Commit 3096 | 2024-05-09 17:30:46 +0500 | feat: add telemetry hooks for sync status [2024-05-09 #4]
+Commit 3097 | 2024-05-09 19:57:11 +0500 | docs: enhance code comments and setup guide [2024-05-09 #5]
