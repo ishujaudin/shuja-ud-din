@@ -3172,3 +3172,4 @@ Commit 3169 | 2024-06-03 19:12:15 +0500 | perf: optimize memory footprint during
 Commit 3170 | 2024-06-04 09:46:43 +0500 | fix: handle boundary condition in parser [2024-06-04 #1]
 Commit 3171 | 2024-06-04 16:16:35 +0500 | perf: optimize memory footprint during batch ingest [2024-06-04 #2]
 Commit 3172 | 2024-06-06 10:53:26 +0500 | perf: optimize memory footprint during batch ingest [2024-06-06 #1]
+Commit 3173 | 2024-06-06 15:04:37 +0500 | refactor: modularize configuration utilities [2024-06-06 #2]
