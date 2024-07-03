@@ -3216,3 +3216,4 @@ Commit 3213 | 2024-07-02 10:52:20 +0500 | docs: enhance code comments and setup 
 Commit 3214 | 2024-07-02 16:05:31 +0500 | refactor: extract reusable helper components [2024-07-02 #2]
 Commit 3215 | 2024-07-03 09:02:58 +0500 | refactor: extract reusable helper components [2024-07-03 #1]
 Commit 3216 | 2024-07-03 11:20:54 +0500 | feat: refine data pipeline routines [2024-07-03 #2]
+Commit 3217 | 2024-07-03 14:11:21 +0500 | docs: update architecture references [2024-07-03 #3]
