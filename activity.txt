@@ -3224,3 +3224,4 @@ Commit 3221 | 2024-07-04 09:04:11 +0500 | chore: dependency maintenance and clea
 Commit 3222 | 2024-07-04 13:38:04 +0500 | style: format code according to style conventions [2024-07-04 #2]
 Commit 3223 | 2024-07-04 17:16:04 +0500 | build: tune compilation scripts and toolchain [2024-07-04 #3]
 Commit 3224 | 2024-07-05 10:00:15 +0500 | test: add unit coverage for date transform modules [2024-07-05 #1]
+Commit 3225 | 2024-07-05 14:18:53 +0500 | ci: update automated test workflow matrix [2024-07-05 #2]
