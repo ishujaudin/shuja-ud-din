@@ -3459,3 +3459,4 @@ Commit 3456 | 2024-10-05 16:54:33 +0500 | fix: handle boundary condition in pars
 Commit 3457 | 2024-10-05 19:06:33 +0500 | perf: optimize memory footprint during batch ingest [2024-10-05 #4]
 Commit 3458 | 2024-10-07 09:21:15 +0500 | fix: handle boundary condition in parser [2024-10-07 #1]
 Commit 3459 | 2024-10-07 12:55:25 +0500 | perf: optimize memory footprint during batch ingest [2024-10-07 #2]
+Commit 3460 | 2024-10-07 13:11:32 +0500 | refactor: modularize configuration utilities [2024-10-07 #3]
