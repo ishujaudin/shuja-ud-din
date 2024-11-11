@@ -3540,3 +3540,4 @@ Commit 3537 | 2024-11-07 19:54:54 +0500 | refactor: modularize configuration uti
 Commit 3538 | 2024-11-08 10:24:56 +0500 | fix: handle boundary condition in parser [2024-11-08 #1]
 Commit 3539 | 2024-11-08 16:59:05 +0500 | perf: optimize memory footprint during batch ingest [2024-11-08 #2]
 Commit 3540 | 2024-11-11 09:03:10 +0500 | perf: optimize memory footprint during batch ingest [2024-11-11 #1]
+Commit 3541 | 2024-11-11 12:47:36 +0500 | refactor: modularize configuration utilities [2024-11-11 #2]
