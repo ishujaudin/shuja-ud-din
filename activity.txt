@@ -3588,3 +3588,4 @@ Commit 3585 | 2024-11-30 14:05:06 +0500 | docs: update architecture references [
 Commit 3586 | 2024-11-30 17:19:59 +0500 | chore: dependency maintenance and cleanup [2024-11-30 #4]
 Commit 3587 | 2024-11-30 20:55:18 +0500 | style: format code according to style conventions [2024-11-30 #5]
 Commit 3588 | 2024-12-02 09:24:53 +0500 | perf: optimize memory footprint during batch ingest [2024-12-02 #1]
+Commit 3589 | 2024-12-02 11:26:25 +0500 | refactor: modularize configuration utilities [2024-12-02 #2]
