@@ -3601,3 +3601,4 @@ Commit 3598 | 2024-12-06 10:17:31 +0500 | perf: accelerate index lookup algorith
 Commit 3599 | 2024-12-06 11:05:20 +0500 | chore: prune stale assets and logs [2024-12-06 #2]
 Commit 3600 | 2024-12-06 15:25:31 +0500 | fix: handle boundary condition in parser [2024-12-06 #3]
 Commit 3601 | 2024-12-06 16:55:49 +0500 | perf: optimize memory footprint during batch ingest [2024-12-06 #4]
+Commit 3602 | 2024-12-06 19:03:55 +0500 | refactor: modularize configuration utilities [2024-12-06 #5]
