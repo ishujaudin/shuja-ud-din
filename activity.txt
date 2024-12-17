@@ -3625,3 +3625,4 @@ Commit 3622 | 2024-12-16 15:39:24 +0500 | style: format code according to style 
 Commit 3623 | 2024-12-17 09:52:49 +0500 | style: format code according to style conventions [2024-12-17 #1]
 Commit 3624 | 2024-12-17 12:50:54 +0500 | build: tune compilation scripts and toolchain [2024-12-17 #2]
 Commit 3625 | 2024-12-17 15:35:05 +0500 | feat: add telemetry hooks for sync status [2024-12-17 #3]
+Commit 3626 | 2024-12-17 16:27:41 +0500 | docs: enhance code comments and setup guide [2024-12-17 #4]
