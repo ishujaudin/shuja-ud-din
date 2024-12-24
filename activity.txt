@@ -3643,3 +3643,4 @@ Commit 3640 | 2024-12-20 20:59:00 +0500 | fix: resolve race condition in cache i
 Commit 3641 | 2024-12-23 10:10:54 +0500 | build: tune compilation scripts and toolchain [2024-12-23 #1]
 Commit 3642 | 2024-12-23 16:18:01 +0500 | feat: add telemetry hooks for sync status [2024-12-23 #2]
 Commit 3643 | 2024-12-24 09:20:59 +0500 | feat: add telemetry hooks for sync status [2024-12-24 #1]
+Commit 3644 | 2024-12-24 11:30:41 +0500 | docs: enhance code comments and setup guide [2024-12-24 #2]
