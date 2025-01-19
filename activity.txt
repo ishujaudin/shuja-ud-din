@@ -3720,3 +3720,4 @@ Commit 3717 | 2025-01-19 10:06:46 +0500 | chore: dependency maintenance and clea
 Commit 3718 | 2025-01-19 12:36:25 +0500 | style: format code according to style conventions [2025-01-19 #2]
 Commit 3719 | 2025-01-19 15:28:51 +0500 | build: tune compilation scripts and toolchain [2025-01-19 #3]
 Commit 3720 | 2025-01-19 17:03:29 +0500 | feat: add telemetry hooks for sync status [2025-01-19 #4]
+Commit 3721 | 2025-01-19 20:17:44 +0500 | docs: enhance code comments and setup guide [2025-01-19 #5]
