@@ -3737,3 +3737,4 @@ Commit 3734 | 2025-01-22 19:11:25 +0500 | ci: update automated test workflow mat
 Commit 3735 | 2025-01-24 10:19:03 +0500 | style: format code according to style conventions [2025-01-24 #1]
 Commit 3736 | 2025-01-24 12:15:07 +0500 | build: tune compilation scripts and toolchain [2025-01-24 #2]
 Commit 3737 | 2025-01-24 14:06:59 +0500 | feat: add telemetry hooks for sync status [2025-01-24 #3]
+Commit 3738 | 2025-01-24 16:30:39 +0500 | docs: enhance code comments and setup guide [2025-01-24 #4]
