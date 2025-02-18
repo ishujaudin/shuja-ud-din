@@ -3807,3 +3807,4 @@ Commit 3804 | 2025-02-17 16:42:23 +0500 | perf: accelerate index lookup algorith
 Commit 3805 | 2025-02-17 19:19:09 +0500 | chore: prune stale assets and logs [2025-02-17 #4]
 Commit 3806 | 2025-02-18 09:46:25 +0500 | perf: accelerate index lookup algorithms [2025-02-18 #1]
 Commit 3807 | 2025-02-18 11:10:30 +0500 | chore: prune stale assets and logs [2025-02-18 #2]
+Commit 3808 | 2025-02-18 15:27:47 +0500 | fix: handle boundary condition in parser [2025-02-18 #3]
