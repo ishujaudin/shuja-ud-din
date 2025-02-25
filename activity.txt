@@ -3826,3 +3826,4 @@ Commit 3823 | 2025-02-21 17:19:08 +0500 | feat: refine data pipeline routines [2
 Commit 3824 | 2025-02-24 10:05:36 +0500 | chore: prune stale assets and logs [2025-02-24 #1]
 Commit 3825 | 2025-02-24 13:58:55 +0500 | fix: handle boundary condition in parser [2025-02-24 #2]
 Commit 3826 | 2025-02-24 18:36:23 +0500 | perf: optimize memory footprint during batch ingest [2025-02-24 #3]
+Commit 3827 | 2025-02-25 10:29:00 +0500 | docs: update architecture references [2025-02-25 #1]
