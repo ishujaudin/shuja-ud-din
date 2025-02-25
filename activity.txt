@@ -3829,3 +3829,4 @@ Commit 3826 | 2025-02-24 18:36:23 +0500 | perf: optimize memory footprint during
 Commit 3827 | 2025-02-25 10:29:00 +0500 | docs: update architecture references [2025-02-25 #1]
 Commit 3828 | 2025-02-25 13:53:32 +0500 | chore: dependency maintenance and cleanup [2025-02-25 #2]
 Commit 3829 | 2025-02-25 15:58:00 +0500 | style: format code according to style conventions [2025-02-25 #3]
+Commit 3830 | 2025-02-25 18:57:42 +0500 | build: tune compilation scripts and toolchain [2025-02-25 #4]
