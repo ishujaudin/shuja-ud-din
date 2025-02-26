@@ -3833,3 +3833,4 @@ Commit 3830 | 2025-02-25 18:57:42 +0500 | build: tune compilation scripts and to
 Commit 3831 | 2025-02-26 10:06:42 +0500 | style: format code according to style conventions [2025-02-26 #1]
 Commit 3832 | 2025-02-26 12:21:17 +0500 | build: tune compilation scripts and toolchain [2025-02-26 #2]
 Commit 3833 | 2025-02-26 13:33:41 +0500 | feat: add telemetry hooks for sync status [2025-02-26 #3]
+Commit 3834 | 2025-02-26 15:38:40 +0500 | docs: enhance code comments and setup guide [2025-02-26 #4]
