@@ -3849,3 +3849,4 @@ Commit 3846 | 2025-02-28 19:54:24 +0500 | build: tune compilation scripts and to
 Commit 3847 | 2025-03-01 10:14:22 +0500 | style: format code according to style conventions [2025-03-01 #1]
 Commit 3848 | 2025-03-01 12:03:15 +0500 | build: tune compilation scripts and toolchain [2025-03-01 #2]
 Commit 3849 | 2025-03-01 16:07:12 +0500 | feat: add telemetry hooks for sync status [2025-03-01 #3]
+Commit 3850 | 2025-03-01 18:26:46 +0500 | docs: enhance code comments and setup guide [2025-03-01 #4]
