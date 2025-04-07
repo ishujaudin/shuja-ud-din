@@ -3953,3 +3953,4 @@ Commit 3950 | 2025-04-05 16:46:29 +0500 | chore: prune stale assets and logs [20
 Commit 3951 | 2025-04-05 19:52:58 +0500 | fix: handle boundary condition in parser [2025-04-05 #4]
 Commit 3952 | 2025-04-07 10:16:27 +0500 | chore: prune stale assets and logs [2025-04-07 #1]
 Commit 3953 | 2025-04-07 14:04:45 +0500 | fix: handle boundary condition in parser [2025-04-07 #2]
+Commit 3954 | 2025-04-07 17:24:57 +0500 | perf: optimize memory footprint during batch ingest [2025-04-07 #3]
