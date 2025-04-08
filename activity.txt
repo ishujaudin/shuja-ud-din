@@ -3957,3 +3957,4 @@ Commit 3954 | 2025-04-07 17:24:57 +0500 | perf: optimize memory footprint during
 Commit 3955 | 2025-04-08 10:22:54 +0500 | docs: update architecture references [2025-04-08 #1]
 Commit 3956 | 2025-04-08 13:58:34 +0500 | chore: dependency maintenance and cleanup [2025-04-08 #2]
 Commit 3957 | 2025-04-08 15:12:16 +0500 | style: format code according to style conventions [2025-04-08 #3]
+Commit 3958 | 2025-04-08 18:10:33 +0500 | build: tune compilation scripts and toolchain [2025-04-08 #4]
