@@ -3960,3 +3960,4 @@ Commit 3957 | 2025-04-08 15:12:16 +0500 | style: format code according to style 
 Commit 3958 | 2025-04-08 18:10:33 +0500 | build: tune compilation scripts and toolchain [2025-04-08 #4]
 Commit 3959 | 2025-04-09 09:38:33 +0500 | style: format code according to style conventions [2025-04-09 #1]
 Commit 3960 | 2025-04-09 14:56:07 +0500 | build: tune compilation scripts and toolchain [2025-04-09 #2]
+Commit 3961 | 2025-04-09 18:38:53 +0500 | feat: add telemetry hooks for sync status [2025-04-09 #3]
