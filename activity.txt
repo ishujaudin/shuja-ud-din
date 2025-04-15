@@ -3976,3 +3976,4 @@ Commit 3973 | 2025-04-14 09:56:30 +0500 | chore: dependency maintenance and clea
 Commit 3974 | 2025-04-14 14:32:38 +0500 | style: format code according to style conventions [2025-04-14 #2]
 Commit 3975 | 2025-04-14 17:51:34 +0500 | build: tune compilation scripts and toolchain [2025-04-14 #3]
 Commit 3976 | 2025-04-15 09:11:07 +0500 | test: add unit coverage for date transform modules [2025-04-15 #1]
+Commit 3977 | 2025-04-15 14:13:48 +0500 | ci: update automated test workflow matrix [2025-04-15 #2]
