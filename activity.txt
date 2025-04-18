@@ -3989,3 +3989,4 @@ Commit 3986 | 2025-04-17 12:55:45 +0500 | docs: update architecture references [
 Commit 3987 | 2025-04-17 15:59:46 +0500 | chore: dependency maintenance and cleanup [2025-04-17 #3]
 Commit 3988 | 2025-04-17 16:24:38 +0500 | style: format code according to style conventions [2025-04-17 #4]
 Commit 3989 | 2025-04-17 19:22:29 +0500 | build: tune compilation scripts and toolchain [2025-04-17 #5]
+Commit 3990 | 2025-04-18 10:00:56 +0500 | refactor: modularize configuration utilities [2025-04-18 #1]
