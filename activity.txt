@@ -4216,3 +4216,4 @@ Commit 4213 | 2025-07-10 09:22:40 +0500 | chore: dependency maintenance and clea
 Commit 4214 | 2025-07-10 13:19:27 +0500 | style: format code according to style conventions [2025-07-10 #2]
 Commit 4215 | 2025-07-10 17:14:12 +0500 | build: tune compilation scripts and toolchain [2025-07-10 #3]
 Commit 4216 | 2025-07-13 10:44:56 +0500 | test: add unit coverage for date transform modules [2025-07-13 #1]
+Commit 4217 | 2025-07-13 12:17:34 +0500 | ci: update automated test workflow matrix [2025-07-13 #2]
