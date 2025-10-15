@@ -4490,3 +4490,4 @@ Commit 4487 | 2025-10-15 10:36:42 +0500 | style: format code according to style 
 Commit 4488 | 2025-10-15 11:55:09 +0500 | build: tune compilation scripts and toolchain [2025-10-15 #2]
 Commit 4489 | 2025-10-15 13:23:42 +0500 | feat: add telemetry hooks for sync status [2025-10-15 #3]
 Commit 4490 | 2025-10-15 16:38:43 +0500 | docs: enhance code comments and setup guide [2025-10-15 #4]
+Commit 4491 | 2025-10-15 17:30:25 +0500 | refactor: extract reusable helper components [2025-10-15 #5]
