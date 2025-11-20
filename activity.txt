@@ -4592,3 +4592,4 @@ Commit 4589 | 2025-11-19 15:38:43 +0500 | refactor: extract reusable helper comp
 Commit 4590 | 2025-11-19 18:30:43 +0500 | feat: refine data pipeline routines [2025-11-19 #4]
 Commit 4591 | 2025-11-20 09:09:49 +0500 | refactor: extract reusable helper components [2025-11-20 #1]
 Commit 4592 | 2025-11-20 12:26:49 +0500 | feat: refine data pipeline routines [2025-11-20 #2]
+Commit 4593 | 2025-11-20 15:31:53 +0500 | docs: update architecture references [2025-11-20 #3]
