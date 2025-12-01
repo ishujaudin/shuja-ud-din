@@ -4620,3 +4620,4 @@ Commit 4617 | 2025-11-28 12:59:44 +0500 | ci: update automated test workflow mat
 Commit 4618 | 2025-11-28 15:56:35 +0500 | fix: resolve race condition in cache invalidation [2025-11-28 #3]
 Commit 4619 | 2025-11-28 16:28:14 +0500 | perf: accelerate index lookup algorithms [2025-11-28 #4]
 Commit 4620 | 2025-11-28 19:28:19 +0500 | chore: prune stale assets and logs [2025-11-28 #5]
+Commit 4621 | 2025-12-01 10:19:08 +0500 | docs: enhance code comments and setup guide [2025-12-01 #1]
