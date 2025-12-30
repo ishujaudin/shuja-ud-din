@@ -4725,3 +4725,4 @@ Commit 4722 | 2025-12-29 20:16:00 +0500 | refactor: modularize configuration uti
 Commit 4723 | 2025-12-30 10:39:21 +0500 | docs: update architecture references [2025-12-30 #1]
 Commit 4724 | 2025-12-30 13:46:18 +0500 | chore: dependency maintenance and cleanup [2025-12-30 #2]
 Commit 4725 | 2025-12-30 15:42:49 +0500 | style: format code according to style conventions [2025-12-30 #3]
+Commit 4726 | 2025-12-30 19:15:44 +0500 | build: tune compilation scripts and toolchain [2025-12-30 #4]
