@@ -5296,3 +5296,4 @@ Commit 5293 | 2026-06-01 19:24:24 +0500 | fix: handle boundary condition in pars
 Commit 5294 | 2026-06-01 21:52:37 +0500 | perf: optimize memory footprint during batch ingest [2026-06-01 #7]
 Commit 5295 | 2026-06-02 10:11:35 +0500 | refactor: extract reusable helper components [2026-06-02 #1]
 Commit 5296 | 2026-06-02 11:35:52 +0500 | feat: refine data pipeline routines [2026-06-02 #2]
+Commit 5297 | 2026-06-02 14:14:08 +0500 | docs: update architecture references [2026-06-02 #3]
