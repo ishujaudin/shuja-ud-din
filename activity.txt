@@ -5491,3 +5491,4 @@ Commit 5488 | 2026-07-29 15:46:47 +0500 | docs: update architecture references [
 Commit 5489 | 2026-07-29 16:29:53 +0500 | chore: dependency maintenance and cleanup [2026-07-29 #5]
 Commit 5490 | 2026-07-29 18:03:27 +0500 | style: format code according to style conventions [2026-07-29 #6]
 Commit 5491 | 2026-07-29 21:30:13 +0500 | build: tune compilation scripts and toolchain [2026-07-29 #7]
+Commit 5492 | 2026-07-31 10:10:12 +0500 | perf: optimize memory footprint during batch ingest [2026-07-31 #1]
